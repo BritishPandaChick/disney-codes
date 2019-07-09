@@ -38,3 +38,15 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Start putting together modal. Create a div tag in HTML and start getting JavaScript so it opens when button is clicked.
 
 **Link(s) for the day's work:** [30 Days, 30 Sites event invitation](https://github.com/BritishPandaChick/30sites-event-invitation)
+
+## Day 3: July 7, 2019
+**What I Did Today:** Add Bootstrap and CSS styles for response and footer sections. Started to add JavaScript for modal.
+
+**Day Summary:** Response and footer sections are now styled. Most of the time was spent getting started on the modal. I added the modal to my HTML and started adding the styles. I began adding some of the JavaScript to the modal. Right now the modal isn't showing when I click the button so I'm going to have to do some troubleshooting tomorrow. The console is saying the issue is for the close button. Tomorrow I'm going to debug JavaScript and see if I can get it to appear.
+
+**Tomorrow's List:**
+- Fix modal JavaScript. Especially the close button. Get the modal to appear on the screen.
+- Organize modal HTML.
+- Finish CSS for modal.
+
+**Link(s) for the day's work:** [30 Days, 30 Sites event invitation](https://github.com/BritishPandaChick/30sites-event-invitation)
