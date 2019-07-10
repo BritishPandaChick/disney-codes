@@ -39,7 +39,7 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 
 **Link(s) for the day's work:** [30 Days, 30 Sites event invitation](https://github.com/BritishPandaChick/30sites-event-invitation)
 
-## Day 3: July 7, 2019
+## Day 4: July 8, 2019
 **What I Did Today:** Add Bootstrap and CSS styles for response and footer sections. Started to add JavaScript for modal.
 
 **Day Summary:** Response and footer sections are now styled. Most of the time was spent getting started on the modal. I added the modal to my HTML and started adding the styles. I began adding some of the JavaScript to the modal. Right now the modal isn't showing when I click the button so I'm going to have to do some troubleshooting tomorrow. The console is saying the issue is for the close button. Tomorrow I'm going to debug JavaScript and see if I can get it to appear.
@@ -51,7 +51,7 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 
 **Link(s) for the day's work:** [30 Days, 30 Sites event invitation](https://github.com/BritishPandaChick/30sites-event-invitation)
 
-## Day 4: July 8, 2019
+## Day 5: July 9, 2019
 **What I Did Today:** Update HTML, CSS and JavaScript for modal. Tried to get the modal to appear on the screen when button is clicked.
 
 **Day Summary:** I spent 30 minutes working on the modal. I didn't have much success. I did resolve the error with the close button. However the modal is still not appearing on the screen. When I opened Dev Tools, everything is working smoothly. I spent lots of the time looking at JavaScript documentation and reading articles to try different techniques but nothing changed. I think the issue might be in the event listeners and functions. Right now I am trying another tutorial to see if that works. If it doesn't, I'm going to redo the pseudo code and take away the CSS to see if I can get a basic version to appear.
