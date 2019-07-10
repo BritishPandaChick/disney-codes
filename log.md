@@ -50,3 +50,13 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Finish CSS for modal.
 
 **Link(s) for the day's work:** [30 Days, 30 Sites event invitation](https://github.com/BritishPandaChick/30sites-event-invitation)
+
+## Day 4: July 8, 2019
+**What I Did Today:** Update HTML, CSS and JavaScript for modal. Tried to get the modal to appear on the screen when button is clicked.
+
+**Day Summary:** I spent 30 minutes working on the modal. I didn't have much success. I did resolve the error with the close button. However the modal is still not appearing on the screen. When I opened Dev Tools, everything is working smoothly. I spent lots of the time looking at JavaScript documentation and reading articles to try different techniques but nothing changed. I think the issue might be in the event listeners and functions. Right now I am trying another tutorial to see if that works. If it doesn't, I'm going to redo the pseudo code and take away the CSS to see if I can get a basic version to appear.
+
+**Tomorrow's List:**
+- Use documentation from https://hackernoon.com/the-ultimate-guide-for-creating-a-simple-modal-component-in-vanilla-javascript-react-angular-8733e2859b42 to see if modal appears on the screen.
+
+**Link(s) for the day's work:** [30 Days, 30 Sites event invitation](https://github.com/BritishPandaChick/30sites-event-invitation)
