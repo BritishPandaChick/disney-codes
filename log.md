@@ -60,3 +60,15 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Use documentation from https://hackernoon.com/the-ultimate-guide-for-creating-a-simple-modal-component-in-vanilla-javascript-react-angular-8733e2859b42 to see if modal appears on the screen.
 
 **Link(s) for the day's work:** [30 Days, 30 Sites event invitation](https://github.com/BritishPandaChick/30sites-event-invitation)
+
+## Day 6: July 10, 2019
+**What I Did Today:** Remove JavaScript code I've been using. Rewrote all modal code in HTML. Add links for jQuery and Bootstrap for JavaScript.
+
+**Day Summary:** I spent all my time trying to get the RSVP button to work. The original documentation I was trying to use wasn't working. So I did some googling to see what I could find. In the end, I decided to start over completely. I removed all the CSS and JavaScript code I had written. I began to redo the modal code itself. I read online to add links to the jQuery and Bootstrap JS file so I added those links to see if they would help. Right now I'm going back to using the W3Schools documentation. I'm going to also check out the Bootstrap documentation to see if I can at least get something to appear on the site.
+
+**Tomorrow's List:**
+- Finish adding modal classes to HTML. Use https://www.w3schools.com/bootstrap/bootstrap_ref_js_modal.asp to help write code and see if modal code can work.
+- Write any JavaScript code to get the RSVP button working.
+- Style RSVP button. Currently text is all blue.
+
+**Link(s) for the day's work:** [30 Days, 30 Sites event invitation](https://github.com/BritishPandaChick/30sites-event-invitation)
