@@ -72,3 +72,17 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Style RSVP button. Currently text is all blue.
 
 **Link(s) for the day's work:** [30 Days, 30 Sites event invitation](https://github.com/BritishPandaChick/30sites-event-invitation)
+
+## Day 7: July 11, 2019
+**What I Did Today:** Add jQuery for modal. Began adding styles for the modal.
+
+**Day Summary:** A modal has finally appeared on the site! Initially nothing was appearing after I added the rest of the Bootstrap classes and added the JavaScript in. It turns out the modal didn't have the id set which is why nothing was appearing. As soon as I set the id, a modal appeared on the browser. It was a mess, but it was working. The rest of the time was playing with the CSS. I was having issues styling due the Bootstrap classes I added earlier so I began removing them. This made styling so much easier and less messy.
+
+**Tomorrow's List:**
+- Add JavaScript so button will toggle on and off.
+- Figure out how to get the modal in the middle of the page.
+- Remove modal-body and modal-footer classes from the modal.
+- Finish adding CSS styles for the modal.
+- Think about adding more JS for accept and decline buttons in the modal.
+
+**Link(s) for the day's work:** [30 Days, 30 Sites event invitation](https://github.com/BritishPandaChick/30sites-event-invitation)
