@@ -86,3 +86,14 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Think about adding more JS for accept and decline buttons in the modal.
 
 **Link(s) for the day's work:** [30 Days, 30 Sites event invitation](https://github.com/BritishPandaChick/30sites-event-invitation)
+
+## Day 8: July 12, 2019
+**What I Did Today:** Add more div tags to 30 Days, 30 Sites modal. Update CSS styles. Managed to get modal to toggle on with JavaScript. Began adding JS code to get the modal to close.
+
+**Day Summary:** I finished removing the Bootstrap modal code. I organized the modal code into different div tags for the modal header, body and footer. I started to add more CSS to the modal code. I originally had padding and height set for some of the modal elements but I removed them in order to play around with the .modal padding to see why it was moving the modal into the center of the page. I revisited the W3Schools modal tutorial and began having better luck with adding most of the CSS. I started adding the JavaScript. So far the variables are done. I am getting an error saying the onclick property isn't working so tomorrow I'm going to be doing some debugging to see onclick isn't working despite the button allowing the modal to open when it is clicked.
+
+**Tomorrow's List:**
+- fix the onclick property issue from error message.
+- Adjust padding and height for modal elements.
+
+**Link(s) for the day's work:** [30 Days, 30 Sites event invitation](https://github.com/BritishPandaChick/30sites-event-invitation)
