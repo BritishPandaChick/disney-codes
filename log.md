@@ -97,3 +97,14 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Adjust padding and height for modal elements.
 
 **Link(s) for the day's work:** [30 Days, 30 Sites event invitation](https://github.com/BritishPandaChick/30sites-event-invitation)
+
+## Day 9: July 13, 2019
+**What I Did Today:** Fix issues for modal in 30 Days, 30 sites event invitation. Got modal to close. Move modal code closer to the RSVP button.
+
+**Day Summary:** I'm almost in the home stretch with the modal. I figured out why I was getting errors in the console. It turns out that I added the punctuation for the IDs and classes was causing the onclick errors. As soon as I removed the punctuation in the variables, everything started to pass and it began start acting as a modal. The only issue I have now when the modal closes, the backdrop still remains dark. I will try playing around with some of the JS code to see if I can get the backdrop to get back to normal. I started playing with the JS a little bit, but I wasn't having much luck. I think I might have to try setting the data attributes but I'm not 100% sure if that is the right solution.
+
+**Tomorrow's List:**
+- Think about removing modal close button or find a solution so when the modal is closed, the opacity returns back to normal and doesn't stay in a black background.
+- Add CSS for the modal content.
+
+**Link(s) for the day's work:** [30 Days, 30 Sites event invitation](https://github.com/BritishPandaChick/30sites-event-invitation)
