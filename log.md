@@ -108,3 +108,15 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Add CSS for the modal content.
 
 **Link(s) for the day's work:** [30 Days, 30 Sites event invitation](https://github.com/BritishPandaChick/30sites-event-invitation)
+
+## Day 10: July 14, 2019
+**What I Did Today:** Fixed modal backdrop. Tried making responsive styles for 30 Days, 30 sites event invitation. Started set up for next project.
+
+**Day Summary:** I fixed the modal backdrop. After reading some of the documentation and some articles, I decided to just remove the data attributes on the modal button. Once I removed the data attributes I added some background color to the modal. This make a huge difference and would be removed when the modal closed. I tried working on the responsive styles for the site but Dev Tools was acting up. When I was refreshing my site preview, Dev Tools immediately paused the site in the debugger. I tried googling for a solution but I wasn't having much luck. I finally got frustrated and decided to switch gears by starting set up on the next project. Tomorrow I'm going to try again to see if I can get the responsive styles to work in the previewer but if I can't I'll just move onto the next project.
+
+**Tomorrow's List:**
+- Try figuring out the mobile styles for event invitation.
+- Finish set up on tourist attraction website.
+- Start working on HTML for new project.
+
+**Link(s) for the day's work:** [30 Days, 30 Sites event invitation](https://github.com/BritishPandaChick/30sites-event-invitation)
