@@ -120,3 +120,15 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Start working on HTML for new project.
 
 **Link(s) for the day's work:** [30 Days, 30 Sites event invitation](https://github.com/BritishPandaChick/30sites-event-invitation)
+
+## Day 11: July 15, 2019
+**What I Did Today:** Remove Bootstrap classes for navbar in 30 Days, 30 Sites invitation. Start adding mobile CSS styles.
+
+**Day Summary:** I did some googling before starting this coding session to see what was going on with Dev Tools. I did manage to get it fixed, but I was just clicking around with elements in the source window. Whatever I did do I fixed everything. During the session, the navbar wasn't fitting on the entire page when it was on a mobile screen. I ended up removing the navbar Bootstrap classes which fixed the problem. I'll just need to use CSS to replicate what I originally had. I started adding the mobile styles to the site. I was originally was going put all the styles in the same style sheet, but I decided to add a CSS folder and create separate files for different stylesheets for each. Right now I'm working on the mobile styles. Biggest issue I have is the input is cutting off near the left side of the screen when the modal is open. Tomorrow I'll see if I can change the CSS so that doesn't happen on the mobile version of the modal.
+
+**Tomorrow's List:**
+- Fix input bar in mobile CSS style sheet.
+- Add CSS styles for mobile footer section.
+- Start adding styles for responsive styles.
+
+**Link(s) for the day's work:** [30 Days, 30 Sites event invitation](https://github.com/BritishPandaChick/30sites-event-invitation)
