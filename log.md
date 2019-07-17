@@ -144,4 +144,13 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 
 **Link(s) for the day's work:** [30 Days, 30 Sites event invitation](https://github.com/BritishPandaChick/30sites-event-invitation)
 
+## Day 13: July 17, 2019
+**What I Did Today:**
+
+**Day Summary:**
+
+**Tomorrow's List:**
+
+**Link(s) for the day's work:** [30 Days, 30 Sites event invitation](https://github.com/BritishPandaChick/30sites-event-invitation)
+
 ation)
