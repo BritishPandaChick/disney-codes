@@ -132,3 +132,16 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Start adding styles for responsive styles.
 
 **Link(s) for the day's work:** [30 Days, 30 Sites event invitation](https://github.com/BritishPandaChick/30sites-event-invitation)
+
+## Day 12: July 16, 2019
+**What I Did Today:** Tried to fix input for mobile modal. Add styles for responsive version of 30 Days, 30 Sites invitation.
+
+**Day Summary:** Finished the mobile and responsive CSS styles. The input on the mobile still looks like it is being cut off near the left side. I tried fixing the CSS but wasn't having much luck so I'll just leave it the way it is. I did start adding CSS styles for the responsive tablet version of the site. I spent a lot of time deciding on specific Bootstrap classes for the location and story sections. I decided to use col-md-12 instead of col-md-6 since the columns looked as if the images were being squashed together. I added some padding for the p tag in the location section so there was a little bit of space between the image and text. Tomorrow I'm going to tackle the navbar on the desktop version. Without the Bootstrap classes, I'm going to need to figure out how to recreate the same thing using CSS.
+
+**Tomorrow's List:**
+- Fix navbar in main style file.
+- Add Bootstrap class for large screen.
+
+**Link(s) for the day's work:** [30 Days, 30 Sites event invitation](https://github.com/BritishPandaChick/30sites-event-invitation)
+
+ation)
