@@ -145,12 +145,12 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 **Link(s) for the day's work:** [30 Days, 30 Sites event invitation](https://github.com/BritishPandaChick/30sites-event-invitation)
 
 ## Day 13: July 17, 2019
-**What I Did Today:**
+**What I Did Today:** Played around with screen sizes for media attribute in HTML file. Tried getting CSS for main stylesheet to appear on website.
 
-**Day Summary:**
+**Day Summary:** I didn't have much with getting the navigation to appear. I thought the problem was the screen sizes so I tried playing around with the media attribute in the head tag for all the stylesheets to see if I could fix it this way. It didn't work. In the end, I moved the h1 navbar from the nav and added a class to the row for styling. So far it is working. As I was checking the mobile section, the background image is now moving towards the middle of the page. I'll see if I can get it to move a little bit to the left side of the page. 
 
 **Tomorrow's List:**
+- Fix background image for event invitation so move a little to the left.
+- Fix nav code in responsive and main stylesheets.
 
 **Link(s) for the day's work:** [30 Days, 30 Sites event invitation](https://github.com/BritishPandaChick/30sites-event-invitation)
-
-ation)
