@@ -147,10 +147,20 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 ## Day 13: July 17, 2019
 **What I Did Today:** Played around with screen sizes for media attribute in HTML file. Tried getting CSS for main stylesheet to appear on website.
 
-**Day Summary:** I didn't have much with getting the navigation to appear. I thought the problem was the screen sizes so I tried playing around with the media attribute in the head tag for all the stylesheets to see if I could fix it this way. It didn't work. In the end, I moved the h1 navbar from the nav and added a class to the row for styling. So far it is working. As I was checking the mobile section, the background image is now moving towards the middle of the page. I'll see if I can get it to move a little bit to the left side of the page. 
+**Day Summary:** I didn't have much luck with getting the navigation to appear. I thought the problem was the screen sizes so I tried playing around with the media attribute in the head tag for all the stylesheets to see if I could fix it this way. It didn't work. In the end, I moved the h1 navbar from the nav and added a class to the row for styling. So far it is working. As I was checking the mobile section, the background image is now moving towards the middle of the page. I'll see if I can get it to move a little bit to the left side of the page.
 
 **Tomorrow's List:**
 - Fix background image for event invitation so move a little to the left.
 - Fix nav code in responsive and main stylesheets.
+
+**Link(s) for the day's work:** [30 Days, 30 Sites event invitation](https://github.com/BritishPandaChick/30sites-event-invitation)
+
+## Day 14: July 18, 2019
+**What I Did Today:** Fixed mobile and responsive stylesheets for 30 Days, 30 Sites event invitation. Tried fixing main desktop style sheet.
+
+**Day Summary:** I spent all my time working on the CSS for the invitation. It took some time copying and pasting code but I managed to fix the issues with the mobile website. I managed to get the responsive version done since there weren't too many changes. The one that is proving to be the biggest challenge is the main desktop version. Somehow the styles aren't appearing for the navigation bar. I played with the screen sizes and even removed the links for the main style sheet but the styles I want still aren't appearing. I double checked all my styles for the other two stylesheets and they are working just fine. So tomorrow I'm going to figure out what is wrong with the main stylesheet and get something to appear. I have removed the code I was using and am slowly adding it back to see what my site looks like without any of the styles.
+
+**Tomorrow's List:**
+- Fix main stylesheet for desktop. Trying creating a different stylesheet or play around with screen sizes.
 
 **Link(s) for the day's work:** [30 Days, 30 Sites event invitation](https://github.com/BritishPandaChick/30sites-event-invitation)
