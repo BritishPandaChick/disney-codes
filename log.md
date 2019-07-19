@@ -164,3 +164,14 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Fix main stylesheet for desktop. Trying creating a different stylesheet or play around with screen sizes.
 
 **Link(s) for the day's work:** [30 Days, 30 Sites event invitation](https://github.com/BritishPandaChick/30sites-event-invitation)
+
+## Day 15: July 19, 2019
+**What I Did Today:** Fixed main styles for 30 Days, 30 Sites event invitation. Double check all HTML, CSS and JS code.
+
+**Day Summary:** I finally finished the event invitation. It turns out that I created another style file not in the assets folder. This code was mixing with the styles in the style.css folder in the assets folder. So I deleted the style file outside of the assets folder and updated the CSS in the style file in the assets folder. This fixed everything and the styles appeared. I did the last checks of all the code files before pushing to the git repo. I ran into problems here and got an error saying "error: cannot stat 'assets/css': Permission denied" so I had to google a bit to figure out what was wrong. I decided the best thing to cod was close out of all my files and text editor then restart everything. As soon as I did this, everything worked just fine. Tomorrow it is time to get back to the tourist attraction website!
+
+**Tomorrow's List:**
+- Start working on 30 Days, 30 Sites tourist attraction. Get all the set up for the project done.
+- Try to start the HTML for tourist attraction website.
+
+**Link(s) for the day's work:** [30 Days, 30 Sites event invitation](https://github.com/BritishPandaChick/30sites-event-invitation)
