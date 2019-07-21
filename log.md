@@ -175,3 +175,15 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Try to start the HTML for tourist attraction website.
 
 **Link(s) for the day's work:** [30 Days, 30 Sites event invitation](https://github.com/BritishPandaChick/30sites-event-invitation)
+
+## Day 16: July 20, 2019
+**What I Did Today:** Finished set up for 30 Days, 30 Sites tourist attraction website. Began adding HTML code to index file.
+
+**Day Summary:** I got a good head start on some of the HTML code. It isn't completely done. I finished all the set up. I'm debating on if I should add some JavaScript to this site or not. The plan for this project is working with CSS Flexbox mostly. I still have some Bootstrap because I do want some practice but mostly I'd like to use Flexbox the right way this time. Right now I've added the header and footer for the website. I started adding sections to the website. I'm not quite sure what to add so I did look as some other tourist attraction websites on the website to get an idea of what sections I can add to my site. Hopefully tomorrow I can finish the HTML and get a good start on the CSS.
+
+**Tomorrow's List:**
+- Finish adding HTML code to website. Use the https://www.gohawaii.com/ as reference of what sections to add to the site.
+- Find CSS Flexbox resources.
+- Decide if I should use JavaScript on this site or not.
+
+**Link(s) for the day's work:** [30 Days, 30 Sites event invitation](https://github.com/BritishPandaChick/30sites-tourist-attraction)
