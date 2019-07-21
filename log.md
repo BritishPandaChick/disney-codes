@@ -187,3 +187,14 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Decide if I should use JavaScript on this site or not.
 
 **Link(s) for the day's work:** [30 Days, 30 Sites event invitation](https://github.com/BritishPandaChick/30sites-tourist-attraction)
+
+## Day 17: July 21, 2019
+**What I Did Today:** Finish adding HTML sections to 30 Days, 30 Sites tourist attraction website. Began adding CSS styles.
+
+**Day Summary:** I managed to get all the HTML added. I get a feeling I'll be adding more HTML as I go so I'll probably add more as I add more CSS. I started adding CSS to the website. So far I've managed to get some of the navbar done. I'm using some of the colors I used in the original version I made from round one. Right now my plan is to get most of the CSS on the site before I start playing around with Flexbox since that will impact lots of responsive styles. I added a form element in the HTML this time. It won't actually work but I want to practice putting a form element on a website. I'm also using this project to use the iframe tag more by adding sections for Google Maps or video.
+
+**Tomorrow's List:**
+- Finish adding styles for navbar.
+- Add CSS styles for greeting section of website. Find a background image for the greeting section.
+
+**Link(s) for the day's work:** [30 Days, 30 Sites event invitation](https://github.com/BritishPandaChick/30sites-tourist-attraction)
