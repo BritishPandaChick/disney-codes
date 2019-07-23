@@ -186,7 +186,7 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Find CSS Flexbox resources.
 - Decide if I should use JavaScript on this site or not.
 
-**Link(s) for the day's work:** [30 Days, 30 Sites event invitation](https://github.com/BritishPandaChick/30sites-tourist-attraction)
+**Link(s) for the day's work:** [30 Days, 30 Sites tourist attraction](https://github.com/BritishPandaChick/30sites-tourist-attraction)
 
 ## Day 17: July 21, 2019
 **What I Did Today:** Finish adding HTML sections to 30 Days, 30 Sites tourist attraction website. Began adding CSS styles.
@@ -197,4 +197,15 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Finish adding styles for navbar.
 - Add CSS styles for greeting section of website. Find a background image for the greeting section.
 
-**Link(s) for the day's work:** [30 Days, 30 Sites event invitation](https://github.com/BritishPandaChick/30sites-tourist-attraction)
+**Link(s) for the day's work:** [30 Days, 30 Sites tourist attraction](https://github.com/BritishPandaChick/30sites-tourist-attraction)
+
+## Day 18: July 22, 2019
+**What I Did Today:** Add CSS to header, navbar and discover sections for 30 Days, 30 Sites tourist attraction website. Start adding CSS styles for map.
+
+**Day Summary:** Mostly worked on the CSS styles for 30 Days, 30 Sites for tourist attraction website. I did go back into the HTML a little bit to change two classes into ids as well as adding some Bootstrap classes. I managed to get most of the styles done for header, navbar and discover sections. I spent a lot of time trying to get the header background image and text just right. It took more padding than I expected to get the h2 headline in the center of the page. Biggest thing I've learned today is to keep headlines out of the row div tag. The row class causes the headlines and any elements that follow it to be mixed up all over the page. Putting the headlines outside of the row class prevents this from happening and allows Bootstrap to get the columns just right.
+
+**Tomorrow's List:**
+- Finish adding styles for map section. Find right height and width for map.
+- Start adding styles for video section.
+
+**Link(s) for the day's work:** [30 Days, 30 Sites tourist attraction](https://github.com/BritishPandaChick/30sites-tourist-attraction)
