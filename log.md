@@ -209,3 +209,16 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Start adding styles for video section.
 
 **Link(s) for the day's work:** [30 Days, 30 Sites tourist attraction](https://github.com/BritishPandaChick/30sites-tourist-attraction)
+
+## Day 19: July 23, 2019
+**What I Did Today:** Added styles for map, video and festivals sections. Tried adding margin and padding between discover elements.
+
+**Day Summary:** Mostly used CSS for today's activities. At the beginning of the session I went back into the discover section and tried adding some padding between the three p tags so there was a little more space between them. It didn't work so I just left them the way they are for now. I spent most of the time working on the map, video and festivals section. The iframe tags were a little bit harder to style than I anticipated. I found myself spending lots of time moving back and forth between the width and height to get everything looking just right. Padding proved to be a big issue for the festivals section. I spent a lot of time adjusting the padding so the text wasn't near the top of the background image.
+
+**Tomorrow's List:**
+- Create ul tags for directory links. Put a tags inside li tags.
+- Finish adding styles to the directory section.
+- Add styles to the footer. Add background color. Change size and color for social media icons.
+- Set up for responsive styles.
+
+**Link(s) for the day's work:** [30 Days, 30 Sites tourist attraction](https://github.com/BritishPandaChick/30sites-tourist-attraction)
