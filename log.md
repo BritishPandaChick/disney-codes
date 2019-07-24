@@ -222,3 +222,14 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Set up for responsive styles.
 
 **Link(s) for the day's work:** [30 Days, 30 Sites tourist attraction](https://github.com/BritishPandaChick/30sites-tourist-attraction)
+
+## Day 20: July 24, 2019
+**What I Did Today:** Finish adding styles to main style file. Create new stylesheets for responsive styles. Started adding styles for mobile version of site.
+
+**Day Summary:** I got the main stylesheet finished with all the styles. Although these styles are done, I commented them out in the index file to play around with the Flexbox. I'm not sure if Flexbox will be 100% effective with Bootstrap so I'm debating on deleting Bootstrap off this project and just using Flexbox only. I started to play around with Flexbox on the mobile of the site. It is taking me awhile since I'm using the CSS Tricks blog to review the properties. I did decide this website won't have any JavaScript so I can give all my attention on getting Flexbox working on the site.
+
+**Tomorrow's List:**
+- Use Flexbox documentation from https://css-tricks.com/snippets/css/a-guide-to-flexbox/ to start adding Flexbox to website.
+- Get the mobile version of the header done.
+
+**Link(s) for the day's work:** [30 Days, 30 Sites tourist attraction](https://github.com/BritishPandaChick/30sites-tourist-attraction)
