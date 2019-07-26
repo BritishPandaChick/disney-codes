@@ -233,3 +233,15 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Get the mobile version of the header done.
 
 **Link(s) for the day's work:** [30 Days, 30 Sites tourist attraction](https://github.com/BritishPandaChick/30sites-tourist-attraction)
+
+## Day 21: July 25, 2019
+**What I Did Today:** Add more CSS to mobile stylesheet for 30 Days, 30 Sites tourist attraction website. Add Bootstrap classes for small screens in HTML file.
+
+**Day Summary:** I did some googling before starting this session and it turns out that Flexbox is already included in Bootstrap 4 so I don't need to add more Flexbox classes to this site. Therefore I'm going to just use this project as a way to get more practice with Bootstrap. The next project will be the Flexbox project without any Bootstrap. Mostly worked with the CSS today. Mobile CSS is almost done. I just need to finish adding CSS to two sections and it will be done. I had some issues checking the preview in Dev Tools. The previewer looked as if it was cutting off parts of my site. Eventually I just exited out of the previewer view and played with the window sizes with Dev Tools on to double check my styles. Tomorrow before I start the responsive styles I'm going to use the previewer one last time to see how everything looks.
+
+**Tomorrow's List:**
+- Finish adding CSS for directory and footer sections on mobile stylesheet.
+- Start adding styles for responsive stylesheet.
+- Double check on how mobile version of the site looks using Dev Tools.
+
+**Link(s) for the day's work:** [30 Days, 30 Sites tourist attraction](https://github.com/BritishPandaChick/30sites-tourist-attraction)
