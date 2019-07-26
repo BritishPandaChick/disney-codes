@@ -245,3 +245,14 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Double check on how mobile version of the site looks using Dev Tools.
 
 **Link(s) for the day's work:** [30 Days, 30 Sites tourist attraction](https://github.com/BritishPandaChick/30sites-tourist-attraction)
+
+## Day 22: July 26, 2019
+**What I Did Today:** Finish adding CSS styles to 30 Days, 30 Sites tourist attraction website.
+
+**Day Summary:** I finished the tourist attraction website. I added the remaining CSS styles for mobile, responsive and main stylesheets. I checked the previewer in Dev Tools to see how everything looked on the screen. I had no problems with the previewer today. Only HTML I added were the Bootstrap classes for medium and large screens. I didn't have to make too many tweaks to the CSS but I did use the CSS to play around with the width and height of the iframe, video and input tags.
+
+**Tomorrow's List:**
+- Start project set up for day four of 30 Days, 30 sites.
+- Do not add Bootstrap to day four project! Will be using the project to practice Flexbox.
+
+**Link(s) for the day's work:** [30 Days, 30 Sites tourist attraction](https://github.com/BritishPandaChick/30sites-tourist-attraction)
