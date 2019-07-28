@@ -256,3 +256,16 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Do not add Bootstrap to day four project! Will be using the project to practice Flexbox.
 
 **Link(s) for the day's work:** [30 Days, 30 Sites tourist attraction](https://github.com/BritishPandaChick/30sites-tourist-attraction)
+
+## Day 23: July 27, 2019
+**What I Did Today:** Started to set up 30 Days, 30 Sites product website. Created new stylesheets. Began adding HTML code for header, footer, navigation and some of the website sections.
+
+**Day Summary:** Today was all about setting up for the project and getting everything ready. This mean setting up the Github repo, organizing CSS folders, getting all the links needed to make this project and more. I'm not using Bootstrap on this project and am going to instead use Flexbox. Right now the focus is on getting the HTML on the page. The challenge with this website is trying to figure out what Mr. Gold would want on his website. I started looking at a couple of examples to get an idea of what to possibly put. So far I'm planning on using the images from the round one version of the site but it is hard knowing what to put on the website since he's a mysterious character on the show so I'm going to look at a few real life examples to see how to model this website for Mr. Gold.
+
+**Tomorrow's List:**
+- Add more li tags for navigation bar if possible.
+- Add sections in main tag. Add a section note from the Golds, images from the round one version, and an image of the building location. Possibly add a section about Mr. Gold and find image for Mr. Gold.
+- Look at more examples of pawnbroker websites to get an idea what else might be on the website.
+- Think about adding JavaScript to this website.
+
+**Link(s) for the day's work:** [30 Days, 30 Sites](https://github.com/BritishPandaChick/30sites-product-site)
