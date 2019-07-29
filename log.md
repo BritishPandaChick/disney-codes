@@ -269,3 +269,15 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Think about adding JavaScript to this website.
 
 **Link(s) for the day's work:** [30 Days, 30 Sites](https://github.com/BritishPandaChick/30sites-product-site)
+
+## Day 24: July 28, 2019
+**What I Did Today:** Add new sections to 30 Days, 30 Sites product site HTML code. Start adding CSS styles for mobile stylesheet.
+
+**Day Summary:** I added most of the HTML to the product site. I found a pawnshop website that I liked online and used it as a influence for Mr. Gold's website. I add a couple more links to the navigation. The rest of the time was adding the rest of the sections to the website. I deleted a section planned for the location and moved it up near the top near the logo area. I was able to added a note from the Gold family and created the preview section which included images from the round one website. I did get a head start on the mobile CSS by adding some of the basic styles. Tomorrow I'm still planning on doing the styles but I might add some more HTML sections to the site as well as extra classes to help work with flexbox.
+
+**Tomorrow's List:**
+- Add a section to the HTML for Mr. Gold and Belle's pictures. Name as who are we.
+- Add more styles to mobile CSS style sheet. Use https://colorpalettes.net/color-palette-3496/ for adding colors to the website.
+- Start playing around with Flexbox properties.
+
+**Link(s) for the day's work:** [30 Days, 30 Sites](https://github.com/BritishPandaChick/30sites-product-site)
