@@ -292,3 +292,14 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Double check all header styles before moving onto the next section of mobile site.
 
 **Link(s) for the day's work:** [30 Days, 30 Sites](https://github.com/BritishPandaChick/30sites-product-site)
+
+## Day 26: July 30, 2019
+**What I Did Today:** Add new HTML & CSS for 30 Days, 30 Sites product site for hamburger menu. Add a function for JavaScript button to see if I can toggle hamburger menu.
+
+**Day Summary:** First 30 minutes were just working on getting the hamburger menu to work. I rearranged the hamburger icon in the HTML and was trying to get the icon next to the h1 tag. I gave up after several attempts and decided to focus on getting the hamburger menu to work. After reading through the CSS Tricks blog post, I decided I needed to use JavaScript to get it to work so I did more googling. I found a W3Schools article for creating a mobile navigation bar so I decided to try it and see if I could get it to work. Right now I've got a function ready in the JS file. The console says everything works but when I click the icon nothing opens. So I'm going to do some debugging and see how to fix it tomorrow.
+
+**Tomorrow's List:**
+- Debug hamburger menu code using https://www.w3schools.com/howto/howto_js_mobile_navbar.asp from W3Schools.
+- Try putting the icon right next to the h1 in HTML file.
+
+**Link(s) for the day's work:** [30 Days, 30 Sites](https://github.com/BritishPandaChick/30sites-product-site)
