@@ -281,3 +281,14 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Start playing around with Flexbox properties.
 
 **Link(s) for the day's work:** [30 Days, 30 Sites](https://github.com/BritishPandaChick/30sites-product-site)
+
+## Day 25: July 29, 2019
+**What I Did Today:** Add more CSS mobile stylesheet of 30 Days, 30 Sites product site. Tried adding styles to make a hamburger menu website using only CSS.
+
+**Day Summary:** I decided not to add more sections to the product site. I took a look at the site before I started today's session and decided to leave what I original planning off the website. I didn't make as much progress since I decided to make a hamburger menu for the mobile site. Most of the time was googling to see what properties I needed to use. Some websites suggested using JavaScript as well as CSS so I set up a JS file just in case I need it. If I don't, I'll delete it later. So far I'm using the CSS Tricks post to help me. Right now the nav bar is hidden. So I'll see how to toggle everything tomorrow.
+
+**Tomorrow's List:**
+- Figure out how to make navigation bar appear on the mobile screen. Try using only CSS if possible. Use the guide on CSS Tricks at https://css-tricks.com/off-canvas-menu-with-css-target/?source=post_page--------------------------- to get the navbar working.
+- Double check all header styles before moving onto the next section of mobile site.
+
+**Link(s) for the day's work:** [30 Days, 30 Sites](https://github.com/BritishPandaChick/30sites-product-site)
