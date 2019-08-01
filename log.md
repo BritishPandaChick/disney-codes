@@ -303,3 +303,14 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Try putting the icon right next to the h1 in HTML file.
 
 **Link(s) for the day's work:** [30 Days, 30 Sites](https://github.com/BritishPandaChick/30sites-product-site)
+
+## Day 27: July 31, 2019
+**What I Did Today:** Finished styles for hamburger menu on mobile version of 30 Days, 30 Sites product website. Started adding styles for logo section.
+
+**Day Summary:** The hamburger menu is officially done! I spent most of the time debugging and fixing the CSS in order to get everything to work. It isn't 100% perfect. There are ways to improve the styles and make it look and feel like an actual hamburger menu on any mobile website. However I decided to not mess around further with the styles and use that time to play around with Flexbox instead. The remaining time was used to start adding styles for the logo section. I mostly was playing around with the height of the section so there wasn't too many changes to the CSS today. Tomorrow I'll have more time to play around with the height as well as changing the fonts, colors and padding.
+
+**Tomorrow's List:**
+- Finish adding styles for logo section. Use the colors from https://colorpalettes.net/color-palette-3496/ for any color.
+- Try to start styling note and preview sections.
+
+**Link(s) for the day's work:** [30 Days, 30 Sites](https://github.com/BritishPandaChick/30sites-product-site)
