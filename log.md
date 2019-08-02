@@ -314,3 +314,14 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Try to start styling note and preview sections.
 
 **Link(s) for the day's work:** [30 Days, 30 Sites](https://github.com/BritishPandaChick/30sites-product-site)
+
+## Day 28: August 1, 2019
+**What I Did Today:** Finished adding styles to the mobile stylesheet for 30 Days, 30 Sites product website. Started adding styles for the responsive stylesheet.
+
+**Day Summary:** I finished most of the mobile styles for the product site. Most of these sections were just updating the font sizes, font families and colors. I'll probably add more CSS styles in the future as I keep playing around with the Flexbox properties. I did start adding styles for the responsive stylesheet. Once I set display to flex, my website moved all the elements into rows. My plan right now is to tackle each section one at a time so I can play around with the different Flexbox properties and see what happens on my site. Right now my header section looks similar to the one on my mobile site so I'll see if Flexbox can help me fix this issue tomorrow.
+
+**Tomorrow's List:**
+- Get Flexbox properties so the header goes across the website. Use https://css-tricks.com/snippets/css/a-guide-to-flexbox/ for reference.
+- Figure out how to hide hamburger menu icon in responsive stylesheet.
+
+**Link(s) for the day's work:** [30 Days, 30 Sites](https://github.com/BritishPandaChick/30sites-product-site)
