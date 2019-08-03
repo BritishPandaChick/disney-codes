@@ -325,3 +325,14 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Figure out how to hide hamburger menu icon in responsive stylesheet.
 
 **Link(s) for the day's work:** [30 Days, 30 Sites](https://github.com/BritishPandaChick/30sites-product-site)
+
+## Day 29: August 2, 2019
+**What I Did Today:** Played around with the Flexbox properties for 30 Days, 30 Sites responsive product site. Add more CSS styles to website sections.
+
+**Day Summary:** I took some time to read and play around with some of the Flexbox properties on my website. I don't think I'm probably using Flexbox correctly but many of the properties I tried didn't do anything in the previewer. So I just kept the flex-direction property set to column and everything was working. I had issues trying to hide the hamburger icon on the responsive website but thanks to Google I learned about the visibility property. This made it so much easier to hide the icon instead of using the display property. The rest of the time was spent adding CSS to the responsive site. The preview section is giving me the most trouble right now. Tomorrow I'll see if I can use Flexbox to get everything aligned just right in the preview section.
+
+**Tomorrow's List:**
+- Finish adding styles to preview section. Update padding half-width elements in preview section. Try using Flexbox to get elements aligned.
+- Add styles for the address section.
+
+**Link(s) for the day's work:** [30 Days, 30 Sites](https://github.com/BritishPandaChick/30sites-product-site)
