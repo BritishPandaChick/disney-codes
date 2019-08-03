@@ -336,3 +336,14 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Add styles for the address section.
 
 **Link(s) for the day's work:** [30 Days, 30 Sites](https://github.com/BritishPandaChick/30sites-product-site)
+
+## Day 30: August 3, 2019
+**What I Did Today:** Finish styles for responsive version of 30 Days, 30 Sites product website. Start adding styles to the desktop stylesheet.
+
+**Day Summary:** The responsive stylesheet is finished. The biggest issue I had was getting the preview section to not overlap each other on the page. None of the Flexbox properties were working very well so I removed styles I set for half-width class. This allowed preview elements to line up in rows instead of them being all over the page. I started adding styles for the desktop version of the site. Initially I was planning on having my navigation on the right side of the page, but the styles didn't look right when all the links were aligned on the right. So I decided to leave the navigation underneath the headline. Header, logo and note are done on the desktop stylesheet so I'll be back to getting the preview section to work on desktop stylesheet tomorrow.
+
+**Tomorrow's List:**
+- Find a way to fix preview section of desktop stylesheet. Use Flexbox properties to see how to fix preview section.
+- Double check styles on mobile and responsive stylesheets.
+
+**Link(s) for the day's work:** [30 Days, 30 Sites](https://github.com/BritishPandaChick/30sites-product-site)
