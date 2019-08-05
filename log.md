@@ -347,3 +347,14 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Double check styles on mobile and responsive stylesheets.
 
 **Link(s) for the day's work:** [30 Days, 30 Sites](https://github.com/BritishPandaChick/30sites-product-site)
+
+## Day 31: August 4, 2019
+**What I Did Today:** Finish adding CSS to 30 Days, 30 Sites product website. Double check all product website code. Start setting up 30 Days, 30 Sites restaurant menu site.
+
+**Day Summary:** I finished working on the product website. This was just adding the last bit of CSS to the desktop CSS file. Most of the time was spent fixing the preview section. Initially nothing would change when I added the flexbox properties. When I added a border, it looked as if the code was making a variety of different boxes throughout the section. It took sometime trying different Flexbox properties in div classes but everything lined up in a row once I set the flex-direction and display for the full-width class. Once this worked, I went back to the preview section and played around with the padding so there would be a little bit of spacing around and between the elements. Once all the CSS was done, I looked at the entire site in Dev Tools to see what final changes might need to be made. Now that the product website is done, I started to set up work for the next project. So far I've just organizing the code files so I can find them. Tomorrow I'll finish set up and begin working on the code.
+
+**Tomorrow's List:**
+- Continue set up for restaurant menu site. Make sure all files are organized and right links are set up in head tag.
+- Start adding HTML code menu site.
+
+**Link(s) for the day's work:** [30 Days, 30 Sites](https://github.com/BritishPandaChick/30sites-product-site)
