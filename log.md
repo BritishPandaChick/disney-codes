@@ -268,7 +268,7 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Look at more examples of pawnbroker websites to get an idea what else might be on the website.
 - Think about adding JavaScript to this website.
 
-**Link(s) for the day's work:** [30 Days, 30 Sites](https://github.com/BritishPandaChick/30sites-product-site)
+**Link(s) for the day's work:** [30 Days, 30 Sites Product Site](https://github.com/BritishPandaChick/30sites-product-site)
 
 ## Day 24: July 28, 2019
 **What I Did Today:** Add new sections to 30 Days, 30 Sites product site HTML code. Start adding CSS styles for mobile stylesheet.
@@ -280,7 +280,7 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Add more styles to mobile CSS style sheet. Use https://colorpalettes.net/color-palette-3496/ for adding colors to the website.
 - Start playing around with Flexbox properties.
 
-**Link(s) for the day's work:** [30 Days, 30 Sites](https://github.com/BritishPandaChick/30sites-product-site)
+**Link(s) for the day's work:** [30 Days, 30 Sites Product Site](https://github.com/BritishPandaChick/30sites-product-site)
 
 ## Day 25: July 29, 2019
 **What I Did Today:** Add more CSS mobile stylesheet of 30 Days, 30 Sites product site. Tried adding styles to make a hamburger menu website using only CSS.
@@ -291,7 +291,7 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Figure out how to make navigation bar appear on the mobile screen. Try using only CSS if possible. Use the guide on CSS Tricks at https://css-tricks.com/off-canvas-menu-with-css-target/?source=post_page--------------------------- to get the navbar working.
 - Double check all header styles before moving onto the next section of mobile site.
 
-**Link(s) for the day's work:** [30 Days, 30 Sites](https://github.com/BritishPandaChick/30sites-product-site)
+**Link(s) for the day's work:** [30 Days, 30 Sites Product Site](https://github.com/BritishPandaChick/30sites-product-site)
 
 ## Day 26: July 30, 2019
 **What I Did Today:** Add new HTML & CSS for 30 Days, 30 Sites product site for hamburger menu. Add a function for JavaScript button to see if I can toggle hamburger menu.
@@ -302,7 +302,7 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Debug hamburger menu code using https://www.w3schools.com/howto/howto_js_mobile_navbar.asp from W3Schools.
 - Try putting the icon right next to the h1 in HTML file.
 
-**Link(s) for the day's work:** [30 Days, 30 Sites](https://github.com/BritishPandaChick/30sites-product-site)
+**Link(s) for the day's work:** [30 Days, 30 Sites Product Site](https://github.com/BritishPandaChick/30sites-product-site)
 
 ## Day 27: July 31, 2019
 **What I Did Today:** Finished styles for hamburger menu on mobile version of 30 Days, 30 Sites product website. Started adding styles for logo section.
@@ -313,7 +313,7 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Finish adding styles for logo section. Use the colors from https://colorpalettes.net/color-palette-3496/ for any color.
 - Try to start styling note and preview sections.
 
-**Link(s) for the day's work:** [30 Days, 30 Sites](https://github.com/BritishPandaChick/30sites-product-site)
+**Link(s) for the day's work:** [30 Days, 30 Sites Product Site](https://github.com/BritishPandaChick/30sites-product-site)
 
 ## Day 28: August 1, 2019
 **What I Did Today:** Finished adding styles to the mobile stylesheet for 30 Days, 30 Sites product website. Started adding styles for the responsive stylesheet.
@@ -324,7 +324,7 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Get Flexbox properties so the header goes across the website. Use https://css-tricks.com/snippets/css/a-guide-to-flexbox/ for reference.
 - Figure out how to hide hamburger menu icon in responsive stylesheet.
 
-**Link(s) for the day's work:** [30 Days, 30 Sites](https://github.com/BritishPandaChick/30sites-product-site)
+**Link(s) for the day's work:** [30 Days, 30 Sites Product Site](https://github.com/BritishPandaChick/30sites-product-site)
 
 ## Day 29: August 2, 2019
 **What I Did Today:** Played around with the Flexbox properties for 30 Days, 30 Sites responsive product site. Add more CSS styles to website sections.
@@ -335,7 +335,7 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Finish adding styles to preview section. Update padding half-width elements in preview section. Try using Flexbox to get elements aligned.
 - Add styles for the address section.
 
-**Link(s) for the day's work:** [30 Days, 30 Sites](https://github.com/BritishPandaChick/30sites-product-site)
+**Link(s) for the day's work:** [30 Days, 30 Sites Product Site](https://github.com/BritishPandaChick/30sites-product-site)
 
 ## Day 30: August 3, 2019
 **What I Did Today:** Finish styles for responsive version of 30 Days, 30 Sites product website. Start adding styles to the desktop stylesheet.
@@ -346,7 +346,7 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Find a way to fix preview section of desktop stylesheet. Use Flexbox properties to see how to fix preview section.
 - Double check styles on mobile and responsive stylesheets.
 
-**Link(s) for the day's work:** [30 Days, 30 Sites](https://github.com/BritishPandaChick/30sites-product-site)
+**Link(s) for the day's work:** [30 Days, 30 Sites Product Site](https://github.com/BritishPandaChick/30sites-product-site)
 
 ## Day 31: August 4, 2019
 **What I Did Today:** Finish adding CSS to 30 Days, 30 Sites product website. Double check all product website code. Start setting up 30 Days, 30 Sites restaurant menu site.
@@ -357,4 +357,15 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Continue set up for restaurant menu site. Make sure all files are organized and right links are set up in head tag.
 - Start adding HTML code menu site.
 
-**Link(s) for the day's work:** [30 Days, 30 Sites](https://github.com/BritishPandaChick/30sites-product-site)
+**Link(s) for the day's work:** [30 Days, 30 Sites Product Site](https://github.com/BritishPandaChick/30sites-product-site)
+
+## Day 32: August 5, 2019
+**What I Did Today:** Did set up for 30 Days, 30 Sites Restaurant Menu website. Started to add HTML code for the website.
+
+**Day Summary:** Today's session was mostly getting the rest of the website set up and ready to go. This means adding all the links and setting up the files. Once the set up is finished, I started adding some of the HTML. I managed to get the header and footer sections done. I'm not quite sure what sections to put on my website. Right now I've only got a couple of sections on the website but I wasn't sure what to put. Tomorrow I'll work more on the sections. I think I'll just keep this website simple in order to focus on creating a form as well as working with JavaScript and Bootstrap.
+
+**Tomorrow's List:**
+- Start adding more sections for restaurant menu. Use W3Schools example https://www.w3schools.com/w3css/tryw3css_templates_pizza.htm to help layout sections for website.
+- Start thinking about how to use JavaScript on the website. Think about how to use JavaScript for the menu.
+
+**Link(s) for the day's work:** [30 Days, 30 Sites Restaurant Menu](https://github.com/BritishPandaChick/30sites-restaurant-menu)
