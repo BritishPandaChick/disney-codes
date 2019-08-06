@@ -369,3 +369,16 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Start thinking about how to use JavaScript on the website. Think about how to use JavaScript for the menu.
 
 **Link(s) for the day's work:** [30 Days, 30 Sites Restaurant Menu](https://github.com/BritishPandaChick/30sites-restaurant-menu)
+
+## Day 33: August 6, 2019
+**What I Did Today:** Added more HTML sections to 30 Days, 30 Sites restaurant menu website. Added sections for info, hours, about, events and new. Started working on menu section.
+
+**Day Summary:** I am making more progress on the HTML. Before I started working on the project, I took a look at different bistro and cafe websites. I also looked at different French restaurant websites to get an idea how to structure the website. I took this information and started creating these sections on my website. I didn't add too many Bootstrap classes yet but once all the HTML is added I'm going to go through and see where I can add Bootstrap classes before I begin working with the CSS. The only section I am still struggling with because I'm not 100% sure how I want to present the menu on the browser. I think I'll try replicating the W3Schools menu setup with only Bootstrap and JavaScript. The last thing I need to do is finish the menu section. I've got two more sections to go. However I'm not going to dive straight into the CSS yet. I'd like to see where I can add more Bootstrap classes and organize my HTML a bit before I start playing with the styles.
+
+**Tomorrow's List:**
+- Finish adding information to menu section. Add the rest of the items for main courses. Put items for entrees.
+- Add a section that shows off Paris.
+- Begin adding Bootstrap classes for menu sections.
+- If there is any time, start adding CSS styles to website.
+
+**Link(s) for the day's work:** [30 Days, 30 Sites Restaurant Menu](https://github.com/BritishPandaChick/30sites-restaurant-menu)
