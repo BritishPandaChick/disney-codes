@@ -382,3 +382,14 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - If there is any time, start adding CSS styles to website.
 
 **Link(s) for the day's work:** [30 Days, 30 Sites Restaurant Menu](https://github.com/BritishPandaChick/30sites-restaurant-menu)
+
+## Day 34: August 7, 2019
+**What I Did Today:** Finish adding HTML to menu section of 30 Days, 30 Sites restaurant menu website. Started adding CSS styles.
+
+**Day Summary:** I finished adding all the HTML to the site. I decided to add h3 headlines to the menu section. I changed the headlines for all the menu items to h4 tags. Once the menu section was done, I added more Bootstrap classes. Most of these classes were container tags. I set up the column widths for the menu section just to see how they would look the site. I might change these classes as I work with the CSS for different screen sizes. The rest of the session was starting to add CSS to my website. I had more issues with the Dev Tools previewer. My styles weren't appearing on the previewer. Once I exited out of the previewer and played around with the screen sizes the styles began appearing. Tomorrow I'll play around with Dev Tools to see if I can get it to work. I did get a head start on the header by adding the background image and setting the width. Tomorrow I'll finish adding styles to the header and working on the navigation.
+
+**Tomorrow's List:**
+- Fix previewer issues for Dev Tools to see how to get accurate look for mobile site on console.
+- Continue to add CSS for header. Start adding CSS styles for navigation. Use the colors from https://colorpalettes.net/color-palette-3994/ to add colors to site.
+
+**Link(s) for the day's work:** [30 Days, 30 Sites Restaurant Menu](https://github.com/BritishPandaChick/30sites-restaurant-menu)
