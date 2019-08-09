@@ -393,3 +393,14 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Continue to add CSS for header. Start adding CSS styles for navigation. Use the colors from https://colorpalettes.net/color-palette-3994/ to add colors to site.
 
 **Link(s) for the day's work:** [30 Days, 30 Sites Restaurant Menu](https://github.com/BritishPandaChick/30sites-restaurant-menu)
+
+## Day 35: August 8, 2019
+**What I Did Today:** Added and removed Bootstrap classes from 30 Days, 30 Sites restaurant menu website. Add new CSS styles for header, info, about and hours sections.
+
+**Day Summary:** Before I started the session I figured out what was wrong with my mobile styles. It turns out I forgot the meta tag in the head tag for the viewport. Once I added the tag everything started working the way it should. The previewer is still acting a little off since styles take time to appear but it is an improvement from yesterday. I'm not completely happy with the header. The background image isn't positioned so the sign is in the middle of the page but I found myself spending too much time nitpicking on something small so I'll leave it the way it is for now and come back to it later. The rest of the session was spent working in CSS and adding CSS styles to the sections on the website. I started the menu section today. I will use the Bootstrap classes to play around with the menu items and prices to see if I can put some spacing between the two.
+
+**Tomorrow's List:**
+- Finish adding CSS styles for menu section on mobile version of the site. Figure out a way to add Bootstrap classes to span tags so there is some spacing between the menu names and prices.
+- Start adding CSS styles for the event section.
+
+**Link(s) for the day's work:** [30 Days, 30 Sites Restaurant Menu](https://github.com/BritishPandaChick/30sites-restaurant-menu)
