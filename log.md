@@ -404,3 +404,14 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Start adding CSS styles for the event section.
 
 **Link(s) for the day's work:** [30 Days, 30 Sites Restaurant Menu](https://github.com/BritishPandaChick/30sites-restaurant-menu)
+
+## Day 36: August 9, 2019
+**What I Did Today:** Add and remove Bootstrap classes from 30 Days, 30 Sites restaurant menu website. Add CSS to h2 headline for menu section.
+
+**Day Summary:** Today I spent most of my time in the HTML files getting the menu code set up. I'm using the W3Schools template as guidance to how to set up and organize my code for this section. I removed some of the Bootstrap classes like the row div tags and add new Bootstrap classes. This included more container classes for each sub-menu. I moved some of the headlines to the top of the menu. I added p tags under each menu item for the description. I don't think I'm completely done with the HTML but I'll add more Bootstrap and HTML classes as I start working with the JavaScript. I did add some CSS for the h2 headline. Tomorrow I'll finish adding some of the basic styles for the rest of the menu section then I am going to start tackling the JavaScript.
+
+**Tomorrow's List:**
+- Finish adding basic styles for menu section. Use https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_templates_pizza as inspiration for menu style.
+- Start setting up the JavaScript for the menu section.
+
+**Link(s) for the day's work:** [30 Days, 30 Sites Restaurant Menu](https://github.com/BritishPandaChick/30sites-restaurant-menu)
