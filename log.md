@@ -415,3 +415,14 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Start setting up the JavaScript for the menu section.
 
 **Link(s) for the day's work:** [30 Days, 30 Sites Restaurant Menu](https://github.com/BritishPandaChick/30sites-restaurant-menu)
+
+## Day 37: August 10, 2019
+**What I Did Today:** Add JS code to 30 Days, 30 Sites restaurant menu website. Played around with CSS for menu section. Created a main.css file.
+
+**Day Summary:** I created a JavaScript function for the menu site. I added the function to the onclick attribute in the index file. The function doesn't work yet because the classes I use in the function don't exist yet. I noticed in the W3Schools example they use separate classes with different styles. I tried out some of these styles on the mobile stylesheet as well as looked at the code in Dev Tools to see how it works. So I created a brand new stylesheet where these menu styles will live so they can be used on all different screen sizes. Tomorrow I will use the W3Schools template as a guide to naming new classes that will be used in main.css and adding the styles so it will look similar to the W3Schools menu section template.
+
+**Tomorrow's List:**
+- Add link to main.css in index file.
+- Start adding classes for main styles. Put these styles in main.css so they will work on all versions of the site. Use the W3Schools template as inspiration.
+
+**Link(s) for the day's work:** [30 Days, 30 Sites Restaurant Menu](https://github.com/BritishPandaChick/30sites-restaurant-menu)
