@@ -426,3 +426,13 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Start adding classes for main styles. Put these styles in main.css so they will work on all versions of the site. Use the W3Schools template as inspiration.
 
 **Link(s) for the day's work:** [30 Days, 30 Sites Restaurant Menu](https://github.com/BritishPandaChick/30sites-restaurant-menu)
+
+## Day 38: August 11, 2019
+**What I Did Today:** Start adding CSS selectors to main stylesheet. Used Dev Tools to look at the styles on W3Schools template to see what classes to add to index file and what styles to use on the main stylesheet.
+
+**Day Summary:** I started to add CSS selectors and properties to the main stylesheet. I spent a lot of time looking at the W3Schools template in dev tools and seeing how they did their styles. Right now my menu section is going to look very similar to what is on the W3Schools template. I am planning on changing the styles later to reflect the design for my site. For now I just want to get the site set up the right way and get the classes right so I can get the JavaScript working correctly. So far I've gotten a good head start on the styles. I'm not sure how they did their row class but I'll see if I can figure it out with Dev Tools later. I am removing some of the bootstrap classes for the new CSS classes. Tomorrow I'll be focusing on updating the menu section HTML code with more classes and trying to add more styles to the main stylesheet.
+
+**Tomorrow's List:**
+- Continue to add CSS styles for the menu section of website. Use the W3Schools template and Dev Tools to get the styles.
+
+**Link(s) for the day's work:** [30 Days, 30 Sites Restaurant Menu](https://github.com/BritishPandaChick/30sites-restaurant-menu)
