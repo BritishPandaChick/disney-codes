@@ -436,3 +436,14 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Continue to add CSS styles for the menu section of website. Use the W3Schools template and Dev Tools to get the styles.
 
 **Link(s) for the day's work:** [30 Days, 30 Sites Restaurant Menu](https://github.com/BritishPandaChick/30sites-restaurant-menu)
+
+## Day 39: August 12, 2019
+**What I Did Today:** Continued to add more CSS styles to main stylesheet for 30 Days, 30 Sites restaurant menu website. Update and change CSS classes in HTML.
+
+**Day Summary:** I continued to add more CSS to the main stylesheet. Today I managed to start adding styles to the menu items. I got the menu items for the entree items done and got a head start on adding the CSS to the main course items. So far the a tags are working just like the W3Schools template with a few minor changes. Once I'm done adding all the CSS to the main stylesheet I will try updating the stylesheets to see if I can use less classes for my code as well as update the colors to match the ones I'm using on the entire site. But for now I'd like to get the working version ready to go as I possibly can.
+
+**Tomorrow's List:**
+- Continue to add CSS selectors and properties to main stylesheet. Use the W3Schools template as a guide on what to put on the main stylesheet. Use Dev Tools to best see what styles are being used.
+- Update JavaScript functions in script file to match new CSS selectors.
+
+**Link(s) for the day's work:** [30 Days, 30 Sites Restaurant Menu](https://github.com/BritishPandaChick/30sites-restaurant-menu)
