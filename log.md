@@ -447,3 +447,14 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Update JavaScript functions in script file to match new CSS selectors.
 
 **Link(s) for the day's work:** [30 Days, 30 Sites Restaurant Menu](https://github.com/BritishPandaChick/30sites-restaurant-menu)
+
+## Day 40: August 13, 2019
+**What I Did Today:** Finish adding CSS for menu section of 30 Days, 30 Sites restaurant menu. Began combining class styles on stylesheets and updating classes on index file. Started to update CSS styles.
+
+**Day Summary:** I spent most of the time working on the CSS. I did play around with some of the JavaScript in the script file. I just updated some of the class names in the script file. Once the menu styles are completely done, I'll start tackling the JavaScript code. Once the CSS styles were done for the menu section, I started going through the main stylesheet to see which classes could be combined together in order to cut down on the some of the classes assigned to different HTML elements. So far I've move some of the styles to classes I already created on the mobile stylesheet. As I add styles to the mobile stylesheet, I am updating the styles to match the styles I'm already using on the website. I am also adding Bootstrap classes to help with the section layout. Right now I'm working on getting the styles just right for the menu nav section. Tomorrow I'll see if I can start getting the styles right for each of the submenus.
+
+**Tomorrow's List:**
+- Continue to update stylesheets. Refactor stylesheets to reduce the number of classes being used. Still reference W3Schools template example for any styles missed.
+- Start updating JavaScript in script file.
+
+**Link(s) for the day's work:** [30 Days, 30 Sites Restaurant Menu](https://github.com/BritishPandaChick/30sites-restaurant-menu)
