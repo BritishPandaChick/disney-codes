@@ -469,3 +469,14 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Start updating JavaScript in script file.
 
 **Link(s) for the day's work:** [30 Days, 30 Sites Restaurant Menu](https://github.com/BritishPandaChick/30sites-restaurant-menu)
+
+## Day 42: August 15, 2019
+**What I Did Today:** Update JS code in script file for 30 Days, 30 Sites restaurant menu website. Add CSS styles for events and new sections on mobile site.
+
+**Day Summary:** In the first few minutes, I double checked all the styles I've made for the menu section. I did the remaining updates for the menu items in the main courses and dessert sections. Once these styles were done, I worked on the JavaScript and figured out why all the menus were showing instead of just one. I originally was using document.querySelector for some of my variables but I changed everything back to document.getElementByClassName. This gave me errors in the console when I opened the page in the browser. It turns out I was missing the 's' in document.getElementsByClassName. As soon as I changed this, only one menu was showing on the screen. Now that the menu section is done, I focused on getting the rest of the mobile page done. All I need to do is finish the footer styles then tomorrow I can start working on the responsive stylesheet.
+
+**Tomorrow's List:**
+- Finish adding CSS styles for footer navigation on mobile stylesheet.
+- Start adding CSS styles for responsive stylesheet. Add Bootstrap classes to work on medium size screens in index.html file.
+
+**Link(s) for the day's work:** [30 Days, 30 Sites Restaurant Menu](https://github.com/BritishPandaChick/30sites-restaurant-menu)
