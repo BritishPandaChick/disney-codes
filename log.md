@@ -458,3 +458,14 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Start updating JavaScript in script file.
 
 **Link(s) for the day's work:** [30 Days, 30 Sites Restaurant Menu](https://github.com/BritishPandaChick/30sites-restaurant-menu)
+
+## Day 41: August 14, 2019
+**What I Did Today:** Continued to update CSS classes on 30 Days, 30 Sites restaurant menu website. Change classes and ids in HTML file.
+
+**Day Summary:** I am still working on the styles for the mobile version of the menu site. Before I continued the styles on the different menu sections, I double checked the menu navigation to see if everything was working smoothly and if I needed to make any changes. The rest of the session was spent working on the menu section. I managed to get the styles done for the entrees section and start on the menu items for the main courses section. As I work on the sub menu sections, I am creating ids for each of the sections to see if this will help later when I work with the JavaScript. Tomorrow I'll see if I can finish the main courses and dessert sections before I tackle the JS. I also want to see if everything is working smoothly with the menu section's CSS before I start working on getting the functions to work correctly.
+
+**Tomorrow's List:**
+- Continue to update stylesheets. Refactor stylesheets to reduce the number of classes being used. Still reference W3Schools template example for any styles missed.
+- Start updating JavaScript in script file.
+
+**Link(s) for the day's work:** [30 Days, 30 Sites Restaurant Menu](https://github.com/BritishPandaChick/30sites-restaurant-menu)
