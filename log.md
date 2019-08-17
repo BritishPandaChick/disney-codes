@@ -480,3 +480,14 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Start adding CSS styles for responsive stylesheet. Add Bootstrap classes to work on medium size screens in index.html file.
 
 **Link(s) for the day's work:** [30 Days, 30 Sites Restaurant Menu](https://github.com/BritishPandaChick/30sites-restaurant-menu)
+
+## Day 43: August 16, 2019
+**What I Did Today:** Finish adding styles to footer on mobile version of 30 Days, 30 Sites restaurant menu. Add styles for medium size screens. Start adding styles for style.css file.
+
+**Day Summary:** I'm almost done with the restaurant menu website! Today I was able to get a large amount of the site's CSS done. The mobile version is officially done. I got the responsive styles for medium screen sizes done. I was able to get a head start on the styles for the large screens. Although I did a lot of work with the CSS, I double checked the menu section on the mobile and responsive versions to make sure everything is working correctly. Tomorrow I'll finish the restaurant menu website styles then I'll be ready to start a brand new project.
+
+**Tomorrow's List:**
+- Finish adding styles for main stylesheet. Add styles for events, new and footer section.
+- Start set up on the next 30 Days, 30 sites project.
+
+**Link(s) for the day's work:** [30 Days, 30 Sites Restaurant Menu](https://github.com/BritishPandaChick/30sites-restaurant-menu)
