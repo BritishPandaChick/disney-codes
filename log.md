@@ -491,3 +491,14 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Start set up on the next 30 Days, 30 sites project.
 
 **Link(s) for the day's work:** [30 Days, 30 Sites Restaurant Menu](https://github.com/BritishPandaChick/30sites-restaurant-menu)
+
+## Day 44: August 17, 2019
+**What I Did Today:** Finish CSS styles for 30 Days, 30 Sites restaurant menu. Fixed merge conflicts with README file on Github.
+
+**Day Summary:** I finished the restaurant menu website. I added the remaining CSS to the website. I created a new class in the new section so I could add some padding between the p tags. I put the elements in the new section in a row div tag so they would display inline block on the site without setting the individual properties. The rest of the session was creating the README file for the project and fixing merge conflicts when I was pushing the code to Github. I wasn't able to start set up for the new project because of the merge conflicts but tomorrow I'll start working on the new site setup and what I'd like to work on for this site.
+
+**Tomorrow's List:**
+- Start setup on the next 30 Days, 30 Sites website. Set up code files for next project.
+- Start working on the HTML for next project.
+
+**Link(s) for the day's work:** [30 Days, 30 Sites Restaurant Menu](https://github.com/BritishPandaChick/30sites-restaurant-menu)
