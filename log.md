@@ -502,3 +502,15 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Start working on the HTML for next project.
 
 **Link(s) for the day's work:** [30 Days, 30 Sites Restaurant Menu](https://github.com/BritishPandaChick/30sites-restaurant-menu)
+
+## Day 45: August 18, 2019
+**What I Did Today:** Set up code files for 30 Days, 30 Sites author website. Start writing HTML code.
+
+**Day Summary:** I started a brand new project today. Today was mostly getting everything set up and ready to go for the project. I decided to not use JavaScript on this project in order to get more practice with Flexbox properties. Right now my focus is just getting the HTML up on the site. So far I've added the header and footer. I'm not sure what sections to put on my site so I looked at some real author websites to get inspiration as well as looking at the image from the movie showing the book the author wrote to see what fonts and colors to use. Tomorrow I'd like to add more sections to the site so I have enough content to practice with when it comes to playing around with the CSS.
+
+**Tomorrow's List:**
+- Finish directory section on website.
+- Start adding other sections on website. Continue to look at other author websites for inspiration on what to put on mine.
+- Find a color palette that is similar to the one used in the movie.
+
+**Link(s) for the day's work:** [30 Days, 30 Sites Author Website](https://github.com/BritishPandaChick/30sites-author-website)
