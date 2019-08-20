@@ -514,3 +514,14 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Find a color palette that is similar to the one used in the movie.
 
 **Link(s) for the day's work:** [30 Days, 30 Sites Author Website](https://github.com/BritishPandaChick/30sites-author-website)
+
+## Day 46: August 19, 2019
+**What I Did Today:** Add HTML sections for news, best seller book and enchanted for 30 Days, 30 Sites author website. Add new css files for responsive styles. Start adding base styles in mobile stylesheet and header.
+
+**Day Summary:** I finished all the HTML for the author website. I also found a color palette to use for the CSS. I did get a head start on some of the CSS but most of the work was getting the sections on the website. I updated some of the original sections I had yesterday. This meant switching around the first section to book-sign which will just have a background image. The original items I was using in this section were moved to other sections on the page. I finished the directory section with all the navigation for the site. the rest of the HTML were additions. I'll probably be adding more HTML along the way of this project but tomorrow I'll be concentrating on the CSS for the rest of the time.
+
+**Tomorrow's List:**
+- Resume adding styles for mobile.css file. Use the colors from https://colorpalettes.net/color-palette-3117/ to add styles to the website. Use the CSS Tricks post for Flexbox to help with the Flexbox properties.
+- Add all the styles for the header section.
+
+**Link(s) for the day's work:** [30 Days, 30 Sites Author Website](https://github.com/BritishPandaChick/30sites-author-website)
