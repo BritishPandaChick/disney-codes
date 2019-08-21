@@ -536,3 +536,14 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Fix background image for book-sign section.
 
 **Link(s) for the day's work:** [30 Days, 30 Sites Author Website](https://github.com/BritishPandaChick/30sites-author-website)
+
+## Day 48: August 21, 2019
+**What I Did Today:** Add Flexbox properties to body in 30 Days, 30 Sites website. Finish header styles for mobile version of website.
+
+**Day Summary:** I spent a lot of time working on the header section than I was planning. This was trying to figure out why there was a whitespace above the header section. I started playing around with Flexbox to see if I could find a solution with the Flexbox properties. I found a working solution by adding display property to the body and setting it to flex. Then I used flex-wrap to wrap all the elements on the page. Once I got Flexbox on the site, I added all the original styles I set yesterday back to the page one at a time. I moved the original background image I was using to an image tag in the HTML file for the book sign section. I was originally going to have a section for the newsletter but this created a lot of white space between the two sections. I spent the rest of the session playing around with the HTML for the sections including getting rid of the newsletter section and combining it with the book sign section. Tomorrow I'm going to play with the book sign section some more to see if I can get everything to work so there is no whitespace between them.
+
+**Tomorrow's List:**
+- Finish adding CSS styles to book sign section. Find a way to remove the white space between the image and newsletter sign up section.
+- Start adding styles for best seller section if I have the time.
+
+**Link(s) for the day's work:** [30 Days, 30 Sites Author Website](https://github.com/BritishPandaChick/30sites-author-website)
