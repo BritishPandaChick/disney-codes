@@ -525,3 +525,14 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Add all the styles for the header section.
 
 **Link(s) for the day's work:** [30 Days, 30 Sites Author Website](https://github.com/BritishPandaChick/30sites-author-website)
+
+## Day 47: August 20, 2019
+**What I Did Today:** Start adding styles for header section of 30 Days, 30 Sites author website.
+
+**Day Summary:** I spent the entire session working on the header for 30 Days, 30 Sites. The header took me a lot longer than I anticipated since the previewer wasn't completely fitting on the iphone screen and the header would push itself down from the top of the page, leaving a large amount of white space near the top. I spent a lot of time looking at my CSS code to see what I could change. Right now I managed to find a working solution by changing the width from 100% to 90%. Although I spent most time on the header, I did add the background image for the book sign section to see how much space is between these two sections. Right now I see a little bit of space between these two sections. I think I'm going to remove background image and just use a regular image inside the section instead.
+
+**Tomorrow's List:**
+- Get rid of horizontal scroll bar on mobile website. Fix header section so it completely fits on the previewer screen.
+- Fix background image for book-sign section.
+
+**Link(s) for the day's work:** [30 Days, 30 Sites Author Website](https://github.com/BritishPandaChick/30sites-author-website)
