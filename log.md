@@ -547,3 +547,15 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Start adding styles for best seller section if I have the time.
 
 **Link(s) for the day's work:** [30 Days, 30 Sites Author Website](https://github.com/BritishPandaChick/30sites-author-website)
+
+## Day 49: August 22, 2019
+**What I Did Today:** Fix header, book sign and newsletter sections on mobile version of 30 Days, 30 Sites author website. Start adding styles for best-seller, enchanted and news sections.
+
+**Day Summary:** Before I started working on any of the CSS, I looked at the author site through the previewer on Dev Tools. The issues I had yesterday somehow magically fixed itself. So I went back in and changed the width I set in the sections I did yesterday. After looking at the site, I decided to go back to putting the image in the book sign section as a background image. I also put the newsletter section back in a separate section tag instead of with the book-sign section. The previewer is still a little bit odd in how it displays styles but everything looks exactly the way it needs to be. The rest of the time was spent adding styles to other sections. Tomorrow I will wrap up the mobile stylesheet for this site and start working on the tablet styles for medium sized screens.
+
+**Tomorrow's List:**
+- Finish adding styles for directory section.
+- Do all the styles for footer section.
+- Start working on tablet.css styles. Figure out what Flexbox properties to use.
+
+**Link(s) for the day's work:** [30 Days, 30 Sites Author Website](https://github.com/BritishPandaChick/30sites-author-website)
