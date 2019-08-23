@@ -559,3 +559,14 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Start working on tablet.css styles. Figure out what Flexbox properties to use.
 
 **Link(s) for the day's work:** [30 Days, 30 Sites Author Website](https://github.com/BritishPandaChick/30sites-author-website)
+
+## Day 50: August 23, 2019
+**What I Did Today:** Finish CSS mobile stylesheet for 30 Days, 30 Sites author website. Start adding CSS styles for tablet stylesheet. Add styles for header, book-sign, and newsletter sections.
+
+**Day Summary:** The previewer was once again acting up so I didn't use the previewer as much today and instead played around with the screen sizes with Dev Tools open. I did finish the mobile styles. I spent a lot of time trying to get the directory links to have a little padding added to the top so they would have some spacing but this wasn't working the way I wanted to so I left it the way it is. Once all the mobile styles were done, I started adding CSS to the tablet.css file. The image for the best-seller section is proving to be a challenge. Right now I'm trying to play around with the image's height. Tomorrow I'd like to play with the padding to see if I can get it to look centered with equal amounts of white space on each side of the image.
+
+**Tomorrow's List:**
+- Finish adding CSS styles for best-seller section. Fix best-seller image height.
+- Start adding styles for enchanted section.
+
+**Link(s) for the day's work:** [30 Days, 30 Sites Author Website](https://github.com/BritishPandaChick/30sites-author-website)
