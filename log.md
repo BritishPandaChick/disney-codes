@@ -570,3 +570,15 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Start adding styles for enchanted section.
 
 **Link(s) for the day's work:** [30 Days, 30 Sites Author Website](https://github.com/BritishPandaChick/30sites-author-website)
+
+## Day 51: August 24, 2019
+**What I Did Today:** Finish adding CSS for tablet stylesheet for 30 Days, 30 Sites author website.
+
+**Day Summary:** The tablet version of the author site is technically done. I added the remaining CSS to the website and updated the properties so they would look nice on websites. The Dev Tools previewer is acting up again. When I checked the site in Dev Tools, everything looked exactly the way I wanted it. However the previewer is showing whitespace after the header, book sign and newsletter sections. Although I did get a head start adding details to the style.css file, I think I'm going to double check all the styles in the tablet stylesheet and see if I need to make any final fixes before I start working on the last stylesheet.
+
+**Tomorrow's List:**
+- Fix tablet.css styles using Dev Tools previewer.
+- Check icons for mobile.css using Dev Tools previewer.
+- Start adding CSS styles for style.css file. Use CSS Tricks article to help with the Flebox properties.
+
+**Link(s) for the day's work:** [30 Days, 30 Sites Author Website](https://github.com/BritishPandaChick/30sites-author-website)
