@@ -582,3 +582,14 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Start adding CSS styles for style.css file. Use CSS Tricks article to help with the Flebox properties.
 
 **Link(s) for the day's work:** [30 Days, 30 Sites Author Website](https://github.com/BritishPandaChick/30sites-author-website)
+
+## Day 52: August 25, 2019
+**What I Did Today:** Review CSS styles for medium size screens for 30 Days, 30 Sites author site. Add CSS for large screen sizes of site.
+
+**Day Summary:** I put the finishing touches on the author website. I tried fixing my website using the Dev Tools previewer but wasn't having much luck. The whitespace is still showing up in the previewer at the end of each section of the website. When I changed the window sizes in Dev Tools, the site looks completely different from what is appearing in the previewer. So I just changed the screen size to match what an iPad to see how everything looked and everything was just fine. I'm not sure what is going on with the previewer so I decided move on with the rest of the site and get the CSS done for large screens. The large screen styles went just fine. I didn't have to make too many tweaks to the CSS. Once all the styles were done, I moved all the styles to CodePen. The styles look completely different on the pen than my local file. Some of the styles condensed on the CodePen file so I might go back and fix these styles in future. I am instead going to start a brand new project tomorrow just to see how this project is like in the previewer.
+
+**Tomorrow's List:**
+- Start set up on 30 Days, 30 Sites day seven project. Set up code files.
+- Start adding HTML code to day seven website.
+
+**Link(s) for the day's work:** [30 Days, 30 Sites Author Website](https://github.com/BritishPandaChick/30sites-author-website)
