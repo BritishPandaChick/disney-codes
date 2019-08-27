@@ -593,3 +593,15 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Start adding HTML code to day seven website.
 
 **Link(s) for the day's work:** [30 Days, 30 Sites Author Website](https://github.com/BritishPandaChick/30sites-author-website)
+
+## Day 53: August 26, 2019
+**What I Did Today:** Set up code files for 30 Days, 30 Sites movie trailer website. Start adding HTML code to website.
+
+**Day Summary:** I did a lot of setup for the next 30 Days, 30 Sites project. Once the code files were ready to go, I spent the rest of the time working on the HTML. I'm keeping the navigation simple this time with just a navigation bar at the top with no logo. I'm also added the footer at the bottom with social media icons. I started working on the sections but I'm not sure what exactly what to put on  my site. I did look at Disney's actual site for the latest movie as well as another site for Maleficent 2 to get ideas on what I can put. I'm going to think about how exactly I want to setup my site tonight then tomorrow I'll start tackling the sections of my site.
+
+**Tomorrow's List:**
+- Add HTML sections to website. Figure out what sections to put on website.
+- Decide on what fonts to use for the website. Pick at least one to use on the site.
+- Think about what JavaScript I could add to the website.
+
+**Link(s) for the day's work:** [30 Days, 30 Sites Movie Trailer Website](https://github.com/BritishPandaChick/30sites-movie-trailer)
