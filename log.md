@@ -605,3 +605,16 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Think about what JavaScript I could add to the website.
 
 **Link(s) for the day's work:** [30 Days, 30 Sites Movie Trailer Website](https://github.com/BritishPandaChick/30sites-movie-trailer)
+
+## Day 54: August 27, 2019
+**What I Did Today:** Remove links from header navigation. Add section tags for trailer, cast and image-gallery for 30 Days, 30 Sites movie trailer website. Add more HTML to existing sections such as news and press.
+
+**Day Summary:** Before I started working on site, I took some time to look at fonts and sample movie trailers. I decided to keep things very simple for the movie page in regards to section but the examples gave me a good idea what might need to be on the site. I'm not going to play with fonts this time on the site since I don't think the Star Wars fonts I was looking at with look good for styling the rest of the page. I used Dev Tools to look at the fonts the real movie page is using and they are using generic san-serif fonts so I'm going to do something similar with mine. During the work session, I concentrated on the sections. I deleted a lot of the navigation links I added yesterday and kept things very simple. I added new sections to the site for the trailer, cast and image gallery. I am going to use the image gallery article Free Code Camp posted to create a CSS Grid image gallery for some of the movie images. I'm not sure how this will translate on other screen sizes but I'm going to try it and see how it goes. Tomorrow I would like to add the remaining HTML for the last div tag in the press section and get all the image gallery images ready to go so I can spend more time concentrating on the CSS.
+
+**Tomorrow's List:**
+- Add div class for text tags in latest news section.
+- Find third image for third div tag in press section. Add text tags to third div tag.
+- Create image gallery using CSS Grid. Use the https://www.freecodecamp.org/news/how-to-create-an-image-gallery-with-css-grid-e0f0fd666a5c/?fbclid=IwAR0_P_CpHwjh7Nj-rAUFEwcPR50591oz7xjK5jIAfYZlvfrhECseirW2n08 to help put together the image gallery.
+- Start adding CSS styles website. Start with mobile stylesheet.
+
+**Link(s) for the day's work:** [30 Days, 30 Sites Movie Trailer Website](https://github.com/BritishPandaChick/30sites-movie-trailer)
