@@ -629,3 +629,15 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Start adding CSS styles for trailer and summary section. Move button for tickets to summary section.
 
 **Link(s) for the day's work:** [30 Days, 30 Sites Movie Trailer Website](https://github.com/BritishPandaChick/30sites-movie-trailer)
+
+## Day 56: August 29, 2019
+**What I Did Today:** Add more CSS to mobile stylesheet for 30 Days, 30 Sites movie trailer website. Update HTML with new Bootstrap classes and headline tags for sections.
+
+**Day Summary:** I got a lot done on the mobile version of the movie trailer website. Most of this time was spent revisiting code I wrote yesterday to try out some of the ideas I wrote on my todo list. I changed some of the Bootstrap classes I was using and added some headlines to sections as I went. However most of the time was spent adding CSS to various sections of the site. I managed to get the trailer, summary, and cast sections done. Tomorrow I'd like to finish the latest news section. The big challenge tomorrow will be doing the image gallery and seeing if I can get the images for the gallery to work on small screens.
+
+**Tomorrow's List:**
+- Fix D23 look for latest news in CSS. Adjust the header for the latest news section.
+- Start adding CSS styles for the press section. Update HTML with more Bootstrap classes.
+- Start adding CSS styles for image gallery. Find CSS grid documentation and posts to help make image gallery mobile responsive.
+
+**Link(s) for the day's work:** [30 Days, 30 Sites Movie Trailer Website](https://github.com/BritishPandaChick/30sites-movie-trailer)
