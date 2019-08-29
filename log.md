@@ -618,3 +618,14 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Start adding CSS styles website. Start with mobile stylesheet.
 
 **Link(s) for the day's work:** [30 Days, 30 Sites Movie Trailer Website](https://github.com/BritishPandaChick/30sites-movie-trailer)
+
+## Day 55: August 28, 2019
+**What I Did Today:** Finish adding HTML to 30 Days, 30 Sites movie trailer website. Start adding CSS styles for mobile website.
+
+**Day Summary:** I finished adding the rest of the HTML to the remaining sections on the website. I changed one of the images in the img src attribute in the press section I put yesterday. I also removed the navbar class from the header. The rest of the HTML was new additions for the image gallery and the text tags for the last div tag in the press section. Once I finished the HTML, I started to add some of the CSS to the website. Right now I'm working on the header on the mobile stylesheet. Right now I'm trying to use a background color for the header but tomorrow I'd like to try using a background image and make the navigation row a different color. I get a feeling there is something from the mobile header so I spent a lot of the time trying to fix the list items and the button. The button is especially giving me trouble. I tried moving it inside of the ul tags as a list item but I think I'll move the button back outside of the ul. I might move the button to a different section. A good place for it might be the summary section. I'll try this tomorrow and see what it looks like. The previewer is still acting up but I think this is due to the images I'm using. Tomorrow I'll see how it works in Dev Tools tomorrow as I work on the rest of the header.
+
+**Tomorrow's List:**
+- Finish adding CSS styles to header website. Find the right styles for header navigation. Think about adding a background-image to header.
+- Start adding CSS styles for trailer and summary section. Move button for tickets to summary section.
+
+**Link(s) for the day's work:** [30 Days, 30 Sites Movie Trailer Website](https://github.com/BritishPandaChick/30sites-movie-trailer)
