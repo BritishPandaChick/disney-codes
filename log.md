@@ -641,3 +641,14 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Start adding CSS styles for image gallery. Find CSS grid documentation and posts to help make image gallery mobile responsive.
 
 **Link(s) for the day's work:** [30 Days, 30 Sites Movie Trailer Website](https://github.com/BritishPandaChick/30sites-movie-trailer)
+
+## Day 57: August 30, 2019
+**What I Did Today:** Finish mobile stylesheet for 30 Days, 30 sites movie trailer website. Start adding CSS styles for tablet stylesheet.
+
+**Day Summary:** I finished the mobile stylesheet. I did try using the Free Code Camp grid for the mobile site, but I decided to just not use it on the mobile style sheet since it would be easier for a user to scroll down the site to look at the images. Although I did most of the work with the CSS, I added more headlines and Bootstrap classes in the HTML so there would be less CSS to add. The rest of the session was working on the tablet stylesheet. The biggest struggle was trying find the right Bootstrap classes to use for the summary section. Right now I'm using col-12 but tomorrow I'd like to play around with Bootstrap classes to see if I can find a better one.
+
+**Tomorrow's List:**
+- Fix styles for summary section. Find appropriate Bootstrap classes for summary elements.
+- Start adding CSS styles for cast.
+
+**Link(s) for the day's work:** [30 Days, 30 Sites Movie Trailer Website](https://github.com/BritishPandaChick/30sites-movie-trailer)
