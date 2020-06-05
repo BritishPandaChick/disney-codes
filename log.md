@@ -38,3 +38,14 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Start adding styles for image gallery
 
 **Link(s) for the day's work:** [30 Days 30 Sites Photographer](https://github.com/BritishPandaChick/30sites-photographer)
+
+## Day 4: June 4, 2020
+**What I Did Today:** Rearrange code for about section. Add headline to Spider Man gallery of images and Bootstrap classes for the images. Fix banner and header sections.
+
+**Day Summary:** I found myself spending more time working in the HTML file than with Sass today. I added lots of Bootstrap classes for the gallery images and the headlines in the banner section. I decided to rearrange the about section by switching the spots for the image and text. The last major addition was a headline tag for the gallery section. The styles are almost done for the mobile version. Before I started to add styles to the other sections I did play around with the header a bit to see if I could my original vision for the site to work. It took some playing with the Bootstrap classes but I managed to get the background color I wanted by removing bg-dark command. Tomorrow I just need to finish the header then I'm going to start working on the styles for the tablet.scss file.
+
+**Tomorrow's List:**
+- Finish styles for mobile footer section
+- Start adding styles to tablet stylesheet
+
+**Link(s) for the day's work:** [30 Days 30 Sites Photographer](https://github.com/BritishPandaChick/30sites-photographer)
