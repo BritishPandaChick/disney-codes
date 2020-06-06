@@ -53,11 +53,22 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 ## Day 5: June 5, 2020
 **What I Did Today:** Finish footer styles for mobile version of site. Start adding styles for medium and large size screens. Played around with Bootstrap classes. Fix issues with Font Awesome icons.
 
-**Day Summary:** The mobile styles are done. At first I was having issues getting the Font Awesome icons to appear on the site. Initially all I had were bullet points with no icons. I had to play around with the HTML code a bit but I found that when I added the Bootstrap nav classes the icons would reappear. I did make the mistake of not starting the compiler in the terminal today so I spent 5 minutes trying to figure out why my styles weren't appearing on my site. So I need to remember from now on to start Sass first thing when I begin working on a project. The rest of the time was adding styles to the tablet.scss. I did get a headstart on styles in style.scss file, but I want to double check all my styles in tablet.scss first before I finish all the styles for large screens. Tomorrow I'd like to get some of the styles added to the image gallery at the bottom of the page. I'll be interested to see if the styles I want to add will conflict with the Bootstrap classes. 
+**Day Summary:** The mobile styles are done. At first I was having issues getting the Font Awesome icons to appear on the site. Initially all I had were bullet points with no icons. I had to play around with the HTML code a bit but I found that when I added the Bootstrap nav classes the icons would reappear. I did make the mistake of not starting the compiler in the terminal today so I spent 5 minutes trying to figure out why my styles weren't appearing on my site. So I need to remember from now on to start Sass first thing when I begin working on a project. The rest of the time was adding styles to the tablet.scss. I did get a headstart on styles in style.scss file, but I want to double check all my styles in tablet.scss first before I finish all the styles for large screens. Tomorrow I'd like to get some of the styles added to the image gallery. I'll be interested to see if the styles I want to add will conflict with the Bootstrap classes. 
 
 **Tomorrow's List:**
 - Finish adding styles to tablet.scss
 - Resume adding styles to style.scss
 - Use Free Code Camp image gallery article to make gallery
+
+**Link(s) for the day's work:** [30 Days 30 Sites Photographer](https://github.com/BritishPandaChick/30sites-photographer)
+
+## Day 6: June 6, 2020
+**What I Did Today:** Remove Bootstrap classes for gallery. Add new gallery styles for mobile and tablet sylesheets. Start adding more styles to style.scss for large screens.
+
+**Day Summary:** The photographer website is almost done. All the tablet.scss styles have been added and compiled to the site. The rest of the time was spent finishing the styles for style.scss file. It turns out that Bootstrap doesn't work very well with the styles from the Free Code Camp image gallery guide. So I removed the Bootstrap classes in the gallery class. This mean adding new class styles in my other stylesheets to get the similar effects from the Bootstrap classes. I double checked the mobile and tablet versions of the sites and they look the way they need to. But the gallery is still an issue since the images are lined up next to each other instead of being spaced out on the page. Tomorrow I'll see if I can get the gallery styles to work on my site. If not, I'll add back the Bootstrap and find a different layout for the images.
+
+**Tomorrow's List:**
+- Fix gallery styles for all site versions
+- Finish adding styles to style.scss file
 
 **Link(s) for the day's work:** [30 Days 30 Sites Photographer](https://github.com/BritishPandaChick/30sites-photographer)
