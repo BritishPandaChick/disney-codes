@@ -49,3 +49,15 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Start adding styles to tablet stylesheet
 
 **Link(s) for the day's work:** [30 Days 30 Sites Photographer](https://github.com/BritishPandaChick/30sites-photographer)
+
+## Day 5: June 5, 2020
+**What I Did Today:** Finish footer styles for mobile version of site. Start adding styles for medium and large size screens. Played around with Bootstrap classes. Fix issues with Font Awesome icons.
+
+**Day Summary:** The mobile styles are done. At first I was having issues getting the Font Awesome icons to appear on the site. Initially all I had were bullet points with no icons. I had to play around with the HTML code a bit but I found that when I added the Bootstrap nav classes the icons would reappear. I did make the mistake of not starting the compiler in the terminal today so I spent 5 minutes trying to figure out why my styles weren't appearing on my site. So I need to remember from now on to start Sass first thing when I begin working on a project. The rest of the time was adding styles to the tablet.scss. I did get a headstart on styles in style.scss file, but I want to double check all my styles in tablet.scss first before I finish all the styles for large screens. Tomorrow I'd like to get some of the styles added to the image gallery at the bottom of the page. I'll be interested to see if the styles I want to add will conflict with the Bootstrap classes. 
+
+**Tomorrow's List:**
+- Finish adding styles to tablet.scss
+- Resume adding styles to style.scss
+- Use Free Code Camp image gallery article to make gallery
+
+**Link(s) for the day's work:** [30 Days 30 Sites Photographer](https://github.com/BritishPandaChick/30sites-photographer)
