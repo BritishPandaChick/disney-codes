@@ -72,3 +72,14 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Finish adding styles to style.scss file
 
 **Link(s) for the day's work:** [30 Days 30 Sites Photographer](https://github.com/BritishPandaChick/30sites-photographer)
+
+## Day 7: June 7, 2020
+**What I Did Today:** Finish adding styles for photographer website. Start preparing code files for mobile services and events website. Began adding Bootstrap and HTML code for header.
+
+**Day Summary:** I figured out the issue with my gallery on the photographer website. I set display to flex instead of grid for the gallery class. This was causing the images to line up next to each other. Once I made this change, the images started to be in a grid except for one image. I looked through my code and noticed I was missing a class. Once I added the styles for the gallery, the image size changed to fit on the screen. After double checking my styles, I started preparing code for the next 30 Days, 30 Websites project. I got the files organized and was able to start working on the header. Tomorrow I'm thinking of moving the headline of the site above or underneath the navigation. I will play around with the navigation and see what might look best for the site.
+
+**Tomorrow's List:**
+- Finish HTML for header on mobile services website
+- Add Bootstrap code to other sections
+
+**Link(s) for the day's work:** [30 Days 30 Sites Photographer](https://github.com/BritishPandaChick/30sites-photographer)
