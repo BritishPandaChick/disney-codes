@@ -83,3 +83,14 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Add Bootstrap code to other sections
 
 **Link(s) for the day's work:** [30 Days 30 Sites Photographer](https://github.com/BritishPandaChick/30sites-photographer)
+
+## Day 8: June 8, 2020
+**What I Did Today:** Add new images to meet section. Remove social media section and move code to footer age. Update bottom navigation menu with Bootstrap classes. Started to make e-mail section and build a new form. Move styles from style.css to mobile.scss file.
+
+**Day Summary:** I made a lot of progress working on the HTML. Before I started working on this project, I took a couple of minutes to take a look at CodePen to see what other creators considered a mobile service and event. After seeing those ideas, I decided to stick with my original concept but put in as many Disney references as I could. So I removed some o the images and text tags with newer ones. I deleted a section I had for social media and moved the content to the footer. I am keeping some of the older sections, but these sections are getting more Bootstrap. The header is finished. I decided to move the headline out of the div row. Once I start with the styling, I might move the code around some more later. Right now I'm working on trying to make a form for the e-mail near the bottom of the page. i might move this section up near the top of the page tomorrow, but for now my challenge is getting the form on the site and getting the button done. Tomorrow I will play with more of the Bootstrap classes to see if I can get some spacing between the form elements.
+
+**Tomorrow's List:**
+- Finish making form for e-mail section
+- Add a section for food truck highlight
+
+**Link(s) for the day's work:** [30 Days 30 Sites Mobile Services and Events](https://github.com/BritishPandaChick/30sites-mobile-events)
