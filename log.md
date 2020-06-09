@@ -94,3 +94,15 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Add a section for food truck highlight
 
 **Link(s) for the day's work:** [30 Days 30 Sites Mobile Services and Events](https://github.com/BritishPandaChick/30sites-mobile-events)
+
+## Day 9: June 9, 2020
+**What I Did Today:** Finish adding HTML to mobile events and service site. Currently trying to figure out how to get Sass to work on the new site.
+
+**Day Summary:** I fixed the issues with the form. I had to use more Bootstrap class for each of the form elements so the elements would be inline and have some spacing in between themselves. After making the form button, I added a section for the highlight section then rearranged the website layout a bit by moving the email section near the top. Now that the HTML is all done, I began working on Sass for the mobile site. Right now the styles are not connecting on the site. I did a test with some code with the main style file but none of the styles were appearing. I'll see if I can quickly troubleshoot the issue tomorrow so I can start adding styles.
+
+**Tomorrow's List:**
+- Get Sass to work
+- Add styles for the base styles for mobile site
+- Begin adding Header styles for mobile site
+
+**Link(s) for the day's work:** [30 Days 30 Sites Mobile Services and Events](https://github.com/BritishPandaChick/30sites-mobile-events)
