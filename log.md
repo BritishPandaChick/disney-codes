@@ -106,3 +106,14 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Begin adding Header styles for mobile site
 
 **Link(s) for the day's work:** [30 Days 30 Sites Mobile Services and Events](https://github.com/BritishPandaChick/30sites-mobile-events)
+
+## Day 10: June 10, 2020
+**What I Did Today:** Got Sass to work and compile styles. Began adding styles for mobile header of site.
+
+**Day Summary:** Most of my time was spent trying to Sass to work on the site. I used the documentation to double check everything I was doing. I was able to get my test styles working on the large screen version, but none of the styles were being compiled on the other versions of the site. After playing around with the files and changing around the links to the stylesheet, everything started working the way it needed to. I was able to get a start on some of the mobile styles. I changed my mind on the navigation so I did add Bootstrap classes back into the site. I also changed the site title to the site so it would look alongside the button for the navbar on the mobile site. Tomorrow I'll see if I can finish the mobile styles and see how things look on the site before I start adding more styles to the site.
+
+**Tomorrow's List:**
+- Finish adding styles to mobile header
+- Start adding styles to email section
+
+**Link(s) for the day's work:** [30 Days 30 Sites Mobile Services and Events](https://github.com/BritishPandaChick/30sites-mobile-events)
