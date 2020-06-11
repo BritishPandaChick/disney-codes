@@ -117,3 +117,14 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Start adding styles to email section
 
 **Link(s) for the day's work:** [30 Days 30 Sites Mobile Services and Events](https://github.com/BritishPandaChick/30sites-mobile-events)
+
+## Day 11: June 11, 2020
+**What I Did Today:** Finish adding styles for header on mobile version of 30 Days, 30 Sites mobile events and services site. Start adding styles for email and meet sections.
+
+**Day Summary:** Today's session was just working on styles. After finishing the header styles, I took a look at the header and decided the colors made it too hard to see anything on a site. So I switched up some of the Sass variables and changed the colors so they were darker. This made a huge difference and was much easier to read. I was able to start adding styles for two sections on the page. The padding was an issue on the page so I started to adjust the Bootstrap classes to see if it would help. I wrapped the contents of the meet seciton in a div with the container class and changed the image classes. Tomorrow I'll see if there any more styles I need to add to the email and meet sections so I can start adding styles for the highlight and footer navigation. I might need to play around with the Bootstrap classes for the footer nav so I'll be playing around with the HTML more tomorrow to get the bottom navigation just right for my site.
+
+**Tomorrow's List:**
+- Finish add styles for meet section
+- Start adding styles for highlight section
+
+**Link(s) for the day's work:** [30 Days 30 Sites Mobile Services and Events](https://github.com/BritishPandaChick/30sites-mobile-events)
