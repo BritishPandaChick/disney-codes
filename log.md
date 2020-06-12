@@ -128,3 +128,14 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Start adding styles for highlight section
 
 **Link(s) for the day's work:** [30 Days 30 Sites Mobile Services and Events](https://github.com/BritishPandaChick/30sites-mobile-events)
+
+## Day 12: June 12, 2020
+**What I Did Today:** Finish adding styles to mobile version of 30 Days, 30 Sites mobile events and services website. Began adding styles to tablet version of header.
+
+**Day Summary:** The mobile version of the site is officially done on my site. When I started the session, I took a couple of minutes to change the font size of the button on my meet section and double check the styles for my meet section. Then I started adding the styles for the highlight section and updating some of the Bootstrap classes in the index.html file. It took a couple of minutes playing around with the Bootstrap classes, but managed to make to the footer navigation work the way I work. This might change as I work on the styles for different screen sizes but for now all the styles are working the way I want. Once the header was finished, I double checked to see how my site looked. I'm not 100% a fan of the h3 and p content in the highlight section, but for now it works the way I want. I was able to start adding code to the tablet.scss file. I was able to get the header styles added to the tablet version of the site. Tomorrow I just need to double check any of the styles I have so far before I can move onto styling for the other sections.
+
+**Tomorrow's List:**
+- Double check header styles on tablet stylesheet
+- Start adding styles to email and meet sections
+
+**Link(s) for the day's work:** [30 Days 30 Sites Mobile Services and Events](https://github.com/BritishPandaChick/30sites-mobile-events)
