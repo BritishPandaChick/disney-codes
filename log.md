@@ -139,3 +139,14 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Start adding styles to email and meet sections
 
 **Link(s) for the day's work:** [30 Days 30 Sites Mobile Services and Events](https://github.com/BritishPandaChick/30sites-mobile-events)
+
+## Day 13: June 13, 2020
+**What I Did Today:** Finish adding styles for tablet.scss. Try to fix Bootstrap classes so bottom navigation would work on mobile sites and not clash with styles for medium and large screens.
+
+**Day Summary:** All the tablet.scss styles are added and compiled on the site. I spent a lot of trying to fix the padding for the form button. I tried playing around with the padding for the button since the right side is a little too close to the texxt. I wasn't able to fix the button. I think some of the Bootstrap classes could be preventing the styles from being changed so I'll have to play around with button styles on the tablet version sometime in the future. After spending some time trying to fix the email button, I decided to move onto the rest of the styles. It turns out that the Bootstrap classes were causing problems for the bottom navigation on the tablet version of my site so I had to remove the Bootstrap classes I added yesterday. Instead of adjusting the columns, I just wrapped the tags in divs with the container and row classes. This gave me the navigation look I wanted on the tablet file, but it messed up the styles for my mobile styles. Tomorrow if I have some extra time I'd like to try adding some Flexbox properties to the mobile bottom navigation to see if I can get the effect I had before without using Bootstrap classes.
+
+**Tomorrow's List:**
+- Start add styles for style.scss
+- Go back and fix site issues for bottom navigation and email button
+
+**Link(s) for the day's work:** [30 Days 30 Sites Mobile Services and Events](https://github.com/BritishPandaChick/30sites-mobile-events)
