@@ -150,3 +150,14 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Go back and fix site issues for bottom navigation and email button
 
 **Link(s) for the day's work:** [30 Days 30 Sites Mobile Services and Events](https://github.com/BritishPandaChick/30sites-mobile-events)
+
+## Day 14: June 14, 2020
+**What I Did Today:** Add styles to style.scss file and compile styles to site. Update multiple sections in mobile.scss file. Add link tag inside h1 tag in header in index.html.
+
+**Day Summary:** All the styles are now added to the website. I didn't make too many changes to the style.scss file since I wanted to concentrate on getting the mobile.scss style updates started. The rest of the session was spent working on getting the mobile styles updated. Today I managed to get the header, email, meet, and highlight sections done. These sections didn't have too many changes except adding padding to headlines and images so there was a little more spacing between the elements. This made things look better and fixed some of the issues I was having with the highlight section. I wasn't able to get to the bottom navigation, but tomorrow I'll spend my time playing around with Flexbox and see if the properties will help. If they don't, I'll need to rethink my plan.
+
+**Tomorrow's List:**
+- Figure out how to fix bottom navigation on mobile site
+- Add final style changes to mobile footer
+
+**Link(s) for the day's work:** [30 Days 30 Sites Mobile Services and Events](https://github.com/BritishPandaChick/30sites-mobile-events)
