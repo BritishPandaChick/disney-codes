@@ -161,3 +161,15 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Add final style changes to mobile footer
 
 **Link(s) for the day's work:** [30 Days 30 Sites Mobile Services and Events](https://github.com/BritishPandaChick/30sites-mobile-events)
+
+## Day 15: June 15, 2020
+**What I Did Today:** Remove Bootstrap classes from bottom navigation section. Tried getting bullet points to disappear with text-decoration property. Add headline for bottom navigation.
+
+**Day Summary:** Today I spent all my time working on the styles for the bottom navigation. I played around with Flexbox as best as I could but I decided it was best to remove all the Bootstrap classes. Once all the Bootstrap was removed, I redid the bottom navigation HTML. I might try Flexbox again tomorrow to see if I can get the Flexbox to work on the site. However, the biggest issue I've having now is getting the bullet points to be hidden on the page. The text decoration property isn't working right now. I think this could be the way the tags are nested in the bottom navigation section so I'm going to play around with the tags tomorrow to see if I can find out where the problem is.
+
+**Tomorrow's List:**
+- Figure out how to get text-decoration property to work on bottom-nav list
+- Do final updates for mobile footer
+- Start adding style updates for tablet.scss file
+
+**Link(s) for the day's work:** [30 Days 30 Sites Mobile Services and Events](https://github.com/BritishPandaChick/30sites-mobile-events)
