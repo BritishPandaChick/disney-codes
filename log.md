@@ -173,3 +173,14 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Start adding style updates for tablet.scss file
 
 **Link(s) for the day's work:** [30 Days 30 Sites Mobile Services and Events](https://github.com/BritishPandaChick/30sites-mobile-events)
+
+## Day 16: June 16, 2020
+**What I Did Today:** Finish mobile styles for mobile events services website. Add final style updates for tablet.scss file. Start adding styles to style.scss file.
+
+**Day Summary:** After taking at look at my code and playing around with the properties, I was able to get the bottom navigation to work on the mobile site. What I did was make an li selector which uses the list-style-type set to none and padding set to 10px 0. I nested the a and a:hover selector inside. This hid all the bullet points. Once I changed the padding, I added the style updates for the footer before I moving to the tablet.scss file. I ran into more issues with the button in the email section. I removed my initial styles and tried to change the padding on the sides but it would move the padding much farther than I wanted no matter what I did. I decided to just leave the button style the way it is and move on with the rest of the styling. When I got to the bottom navigation in the tablet.scss file, I played around around with Flexbox properties just to see how the elements would look on the page. I eventually just set the display to flex for the ul items and added some padding to left of the li elements to create the bottom navigation in the tablet.scss. I was able to get a headstart on the style.scss styles. The header as a bit of challenge just getting the spacing of the navigation items just right but I added some padding to the left of the li elements to get some spacing in between elements so they weren't too close to the headline. Tomorrow I'm going to finish adding style updates to style.scss then I'll start setting up the code for the next project.
+
+**Tomorrow's List:**
+- Finish styles for style.scss file
+- Start adding HTML to club website
+
+**Link(s) for the day's work:** [30 Days 30 Sites Mobile Services and Events](https://github.com/BritishPandaChick/30sites-mobile-events)
