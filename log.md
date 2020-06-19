@@ -206,3 +206,13 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Add back in styles for style.scss
 
 **Link(s) for the day's work:** [30 Days 30 Sites Mobile Services and Events](https://github.com/BritishPandaChick/30sites-mobile-events)
+
+## Day 19: June 19, 2020
+**What I Did Today:** Add container class to footer. Add styles back to style.scss file. Begin setting up club project code.
+
+**Day Summary:** I figured out what was causing the error on the large screen mobile events and services website. I removed all my HTML code and added each section back in the file one at a time after I checked how everything looked on the browser. It turns out that it was the footer creating the horizontal bar on the page. I fixed the issue by wrapping the contents of the footer in a div tag with the container class. After I fixed the issue, I double checked to see how everything looked on other versions of my site to see if there were any issues I needed to fix. Happily there were no big issues in these versions so I was finally able to turn my attention to my next project. Tomorrow I'm going to begin working on the HTML code for the new site and see if there is any of my old code I'll be keeping for the new version.
+
+**Tomorrow's List:**
+- Start adding HTML code for header section of club project site
+
+**Link(s) for the day's work:** [30 Days 30 Sites Mobile Services and Events](https://github.com/BritishPandaChick/30sites-mobile-events)
