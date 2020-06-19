@@ -195,3 +195,14 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Start adding HTML to club website
 
 **Link(s) for the day's work:** [30 Days 30 Sites Mobile Services and Events](https://github.com/BritishPandaChick/30sites-mobile-events)
+
+## Day 18: June 18, 2020
+**What I Did Today:** Tried to remove horizontal scroll bar from large screen version of mobile events and services site.
+
+**Day Summary:** I spent the entire session trying to fix the large screen version of my site and remove the horizontal scroll bar. I removed all the styles from the style.scss file to see if I could find the problem. Instead I think I discovered the issue might have come from the index.html file instead. I wasn't able to figure out what the issue is. So tomorrow I'm going to play around with the HTML and see what code is creating the horizontal scroll bar. Once I figure out the issue and fix it, I'll add the styles back to the style.scss file. I'll have to double check the mobile and tablet versions to see if there are any fixes that need to be made before I move onto another project.
+
+**Tomorrow's List:**
+- Remove HTML code to see what might be causing the horizontal scroll bar 
+- Add back in styles for style.scss
+
+**Link(s) for the day's work:** [30 Days 30 Sites Mobile Services and Events](https://github.com/BritishPandaChick/30sites-mobile-events)
