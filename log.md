@@ -220,11 +220,22 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 ## Day 20: June 20, 2020
 **What I Did Today:** Remove old HTML code. Add HTML code for header, footer, clubs, opening, and banner sections. Start adding images to clubs section.
 
-**Day Summary:** After taking a look at my code, I decided to scrap all my current code and add new code to my site. So I removed the HTML and CSS code. The rest of th time was spent adding new HTML code to my site. I set up the header navigation and the footer for the web page. I was able to start adding different sections to the web page. I got quite a few sections on the page done including ones for a banner, news, and opening. Right now I'm working on adding images for a clubs section. Tomorrow I will see if I can finish the rest of the HTML. I have a couple of other sections I'd like to add to my site before I can start working the styles.
+**Day Summary:** After taking a look at my code, I decided to scrap all my current code and add new code to my site. So I removed the HTML and CSS code. The rest of the time was spent adding new HTML code to my site. I set up the header navigation and the footer for the web page. I was able to start adding different sections to the web page. I got quite a few sections on the page done including ones for a banner, news, and opening. Right now I'm working on adding images for a clubs section. Tomorrow I will see if I can finish the rest of the HTML. I have a couple of other sections I'd like to add to my site before I can start working the styles.
 
 **Tomorrow's List:**
 - Add images for clubs section 
 - Add announcements section
 - Create a form near top of the page
+
+**Link(s) for the day's work:** [30 Days 30 Sites Club](https://github.com/BritishPandaChick/30sites-club)
+
+## Day 21: June 21, 2020
+**What I Did Today:** Finish adding HTML code to club website. Add final images to clubs section. Create email section with a form.
+
+**Day Summary:** The HTML code is finished for the site. I added the images to the clubs section and created an e-mail section at the top of the page. I tried making an announcements section, but I decided to scrap that idea since it was too close to how the news section looked. Most the additions I made today were just text tags and buttons. The opening section has a paragraph tag while I added more headlines and buttons to the clubs section. Tomorrow I'm going to start working on the styles. My big goal is to just make sure the Sass code is working so I'm going to add some test styles to see if everything works before I start adding styles to the mobile version of the site.
+
+**Tomorrow's List:**
+- Get Sass test code to work
+- Start adding styles for mobile.scss file
 
 **Link(s) for the day's work:** [30 Days 30 Sites Club](https://github.com/BritishPandaChick/30sites-club)
