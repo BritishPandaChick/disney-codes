@@ -239,3 +239,14 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Start adding styles for mobile.scss file
 
 **Link(s) for the day's work:** [30 Days 30 Sites Club](https://github.com/BritishPandaChick/30sites-club)
+
+## Day 22: June 22, 2020
+**What I Did Today:** Add test code to double check Sass was working. Began adding styles for mobile version of club site. Add styles for header, banner, and opening section. Start adding styles for news section.
+
+**Day Summary:** Today was the beginning of all the styling for the club website. Before I started working on mobile styles, I added some test styles to the style.scss file to see if Sass was working. Once the test styles were working, I spent the rest of the time working on the mobile styles. I managed to get the header, banner, opening, and email sections done. The header was a bit of challenge since the font colors weren't appearing on the site. This was due to the bg-light and navbar-light classes on the nav tag. Once I changed the navbar-light to navbar-dark the text color changed for the styles I wanted. I got a head start on styles for the news section. Tomorrow I will finish adding the styles to the mobile site and double check my styles before I move onto the styles for the tablet.scss file.
+
+**Tomorrow's List:**
+- Finish styles for mobile.scss file 
+- Start adding styles for tablet.scss file
+
+**Link(s) for the day's work:** [30 Days 30 Sites Club](https://github.com/BritishPandaChick/30sites-club)
