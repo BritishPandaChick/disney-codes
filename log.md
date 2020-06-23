@@ -250,3 +250,15 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Start adding styles for tablet.scss file
 
 **Link(s) for the day's work:** [30 Days 30 Sites Club](https://github.com/BritishPandaChick/30sites-club)
+
+## Day 23: June 23, 2020
+**What I Did Today:** Add styles for news, clubs, and footer section on mobile.scss. Add styles for tablet.scss file.
+
+**Day Summary:** I finished the styles for the mobile version of the site. Once all the mobile styles were finished, I double checked how everything looked on the mobile version before I started to add styles for the tablet.scss file. I managed to get all the tablet.scss styles done, but I'm not 100% happy with the video in the opening section for the tablet.scss file. I played with the width and height of the iframe tag but I still wasn't satisfied with how everything looked in the browser. Once I'm done with all the styles I will go back and see if I can find a better way to show the video on the medium screen version of the site. Tomorrow I am going to add the styles to the style.scss then double check all my styles for all versions of my site to fix any style issues and try to get the video to work on my site.
+
+**Tomorrow's List:**
+- Start adding styles for style.scss file
+- Double check styles for all version of club pages
+- Set up code files for Beverage website
+
+**Link(s) for the day's work:** [30 Days 30 Sites Club](https://github.com/BritishPandaChick/30sites-club)
