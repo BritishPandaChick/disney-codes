@@ -262,3 +262,15 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Set up code files for Beverage website
 
 **Link(s) for the day's work:** [30 Days 30 Sites Club](https://github.com/BritishPandaChick/30sites-club)
+
+## Day 24: June 24, 2020
+**What I Did Today:** Add styles for style.scss file. Update styles for mobile.scss. Remove headlines from opening section. Add strong tags to new section headlines.
+
+**Day Summary:** I added all the styles for style.scss file. I didn't make too many adjustments to the style.scss file since I would be making changes later as I made final changes. Instead I concentrated on doing the final style updates. After looking at the site, I removed the headlines from the opening section and added strong tags to the headlines in the news section in the HTML code. Once i changed the HTML, I started to update the mobile styles by removing my original code for the headlines in the opening section and adding padding to different HTML elements and changing the font sizes for the headlines. After compiling the styles for the mobile version of the site, I started to add styles for the headever and navigation in the tablet.scss file. Tomorrow I'm going to finish the style updates for the tablet.scss and see if I can figure out how to improve the look of the video.
+
+**Tomorrow's List:**
+- Finish style updates for tablet.scss file
+- Finish style updates for style.scss file
+- Set up code files for Beverage website
+
+**Link(s) for the day's work:** [30 Days 30 Sites Club](https://github.com/BritishPandaChick/30sites-club)
