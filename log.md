@@ -274,3 +274,13 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Set up code files for Beverage website
 
 **Link(s) for the day's work:** [30 Days 30 Sites Club](https://github.com/BritishPandaChick/30sites-club)
+
+## Day 25: June 25, 2020
+**What I Did Today:** Add final style updates for tablet.scss and style.scss files. Add text-center class to clubs section in index.html. Start setting up code files for Beverage website.
+
+**Day Summary:** Today I made the final style updates for the clubs website. These changes included changing te padding on different sections, changing the margins on buttons, and updating the font sizes. I finished the style updates for tablet.scss file. The video on the tablet.scss isn't perfect. I played around with the width and height for the iframe in the tablet.scss file as best as I could to get the video to look better. I think the issue with video is due to the Bootstrap classes I'm using for the container and row classes. In the future I might change the width and padding for some of the Bootstrap classees to see if that helps with the width and height of the video. Once all styles were finished for tablet.scss, I made final changes for the style.scss file. As I made changes to the style.scss file, I noticed I kept using the text-align property for the h2 headline in the clubs section. So I went back into my HTML and added the text-center to the headline. I went back into all my scss files and removed the text-align property.
+
+**Tomorrow's List:**
+- Set up code files for Beverage website
+
+**Link(s) for the day's work:** [30 Days 30 Sites Club](https://github.com/BritishPandaChick/30sites-club)
