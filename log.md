@@ -284,3 +284,14 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Set up code files for Beverage website
 
 **Link(s) for the day's work:** [30 Days 30 Sites Club](https://github.com/BritishPandaChick/30sites-club)
+
+## Day 26: June 26, 2020
+**What I Did Today:** Organize code files for Beverages website. Remove old code from round one. Start adding new code to index.html file.
+
+**Day Summary:** Today I started to code the Beverage website. I spent a lot of this session getting organized and getting the code files ready. For this project, I won't be using Bootstrap and will instead use the project as a way to get better using Flexbox. Once I organized my code files, I removed all my old HTML & CSS code. I spent the rest of the session working on the HTML code. I did paste some of my code from the first round back into certain sections of site, but I will change up these elements tomorrow. Tomorrow I will be wrapping up the rest of the HTML code so I can start working on the mobile styles. Although I'm using Flexbox, I'm going to continue to use Sass to get more practice using the features beyond the Sass variables.
+
+**Tomorrow's List:**
+- Finish adding HTML code to index.html file
+- Start adding styles for mobile.scss file
+
+**Link(s) for the day's work:** [30 Days 30 Sites Beverage](https://github.com/BritishPandaChick/30sites-beverage)
