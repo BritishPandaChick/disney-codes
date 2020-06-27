@@ -295,3 +295,15 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Start adding styles for mobile.scss file
 
 **Link(s) for the day's work:** [30 Days 30 Sites Beverage](https://github.com/BritishPandaChick/30sites-beverage)
+
+## Day 27: June 27, 2020
+**What I Did Today:** Finish HTML code for index.html. Rearrange existing code and add new sections for Beverage website. Start adding styles for mobile.scss.
+
+**Day Summary:** Before I started working on my site, I spent some time looking at color palettes and found a brand new color palette to use for my site since I was going to start working on the styles later. First, I finished all the HTML code. I updated a lot of the sections I added yesterday by updating headlines, adding buttons, and moving certain elements to different div tags. I also added a lot of new HTML code including new sections for email and announcements. I've seen a lot of websites have a banner at the top of page above the navigation so this is my way to trying to recreate that on a site. I was able to start on some of the mobile styles. Right now the header had some spacing between the announements section and the top. I will play around with the styles tomorrow to see if I can get the spacing to disappear. My goal is to get a good chunk of the header tomorrow. I'm not sure how I'm going to tackle the navigation quite yet. I might try recreating the mobile navigation I often use on Bootstrap, but a part of me is leaning towards a different direction. I'm going to take a look at different sites on my phone later to get an idea of how to tackle the mobile navigation for my beverage site.
+
+**Tomorrow's List:**
+- Finish styles for mobile announcements section
+- Add styles for h1 headline tag styled
+- Start styling mobile header navigation
+
+**Link(s) for the day's work:** [30 Days 30 Sites Beverage](https://github.com/BritishPandaChick/30sites-beverage)
