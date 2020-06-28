@@ -307,3 +307,14 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Start styling mobile header navigation
 
 **Link(s) for the day's work:** [30 Days 30 Sites Beverage](https://github.com/BritishPandaChick/30sites-beverage)
+
+## Day 28: June 28, 2020
+**What I Did Today:** Add styles for announcements section in mobile.scss file. Start adding styles for header section.
+
+**Day Summary:** The announcements section is finished on the mobile version of the site. I figured out how to remove the spacing above the announcements section. What I did was move the announcements section HTML out of the header section. In the mobile.scss file, I gave some padding to the top and bottom of the announcements section. This cauesd the gap between the section and the top of the page to disappear. Once the announcement section was fixed, I started to add styles for the header. I originally was going to have a background color for this section, but I'm wondering if I should just leave the header black and white instead using a background color since the email section will have a background color so too many background colors might be over doing things. Tomorrow I'm going to try using a border to see how that looks once all the navigation is done. Especially figuring out how to get the button to work on the mobile site.
+
+**Tomorrow's List:**
+- Finish styles for header navigation
+- Start styling email section
+
+**Link(s) for the day's work:** [30 Days 30 Sites Beverage](https://github.com/BritishPandaChick/30sites-beverage)
