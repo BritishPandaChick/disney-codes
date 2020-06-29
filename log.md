@@ -318,3 +318,14 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Start styling email section
 
 **Link(s) for the day's work:** [30 Days 30 Sites Beverage](https://github.com/BritishPandaChick/30sites-beverage)
+
+## Day 29: June 29, 2020
+**What I Did Today:** Finish styles for mobile header. Start adding styles for email section in mobile.scss file.
+
+**Day Summary:** I spent a lot of time working on the mobile header. I played around as best as I could with the navigation to get the list items closer to the left side as I could. This involved playing around with the margin on the ul tag as well as the padding for the li items. The other element I spent time styling was the button for the header. It took some time playing around with the button width and border radius, but I managed to get a decent button on the site. I initially went with a border for the header, but I decided it was best not to have a border on the site. I was able to start the email section and get some of the styles added to the section. I'm not sure how to tackle the form section so tomorrow I'll be working on the form styles so the spacing is just right between the inputs.
+
+**Tomorrow's List:**
+- Add styles for form inputs and button
+- Start adding styles for featured section
+
+**Link(s) for the day's work:** [30 Days 30 Sites Beverage](https://github.com/BritishPandaChick/30sites-beverage)
