@@ -329,3 +329,14 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Start adding styles for featured section
 
 **Link(s) for the day's work:** [30 Days 30 Sites Beverage](https://github.com/BritishPandaChick/30sites-beverage)
+
+## Day 30: June 30, 2020
+**What I Did Today:** Finish styles for email in mobile.scss file. Add styles for featured section.
+
+**Day Summary:** The email section is offically done. I spent a lot of time trying to get the form just right. This mean playing around with the margin and padding for the inputs. I used a separate id to style the button. Initially the styles weren't appearing for the button so I had to do some troubleshooting. I realized the width property was creating problems for different the sections which was creating horizontal scroll bars. So I deleted the width property. Although I spent a lot of time in the mobile.scss file, I did make some adjustments to the index.html. One of the biggest changes is updating the image link in the image tag. Tomorrow I'm going to see if I can get more sections styled. Hopefully I can get more styles done for the mobile.scss file so I can start working on styles for tablet.scss file.
+
+**Tomorrow's List:**
+- Start styling popular section
+- Change images in popular section
+
+**Link(s) for the day's work:** [30 Days 30 Sites Beverage](https://github.com/BritishPandaChick/30sites-beverage)
