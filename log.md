@@ -340,3 +340,14 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Change images in popular section
 
 **Link(s) for the day's work:** [30 Days 30 Sites Beverage](https://github.com/BritishPandaChick/30sites-beverage)
+
+## Day 31: July 1, 2020
+**What I Did Today:** Add remaining styles for mobile.scss file. Add styles for medium screens in tablet.scss file. Update images links in index.html file.
+
+**Day Summary:** I made a lot of good progress on the beverage website today. I finished the styles for the mobile.scss file. I took a look at the mobile site before I started coding and wasn't happy with how some of my elements were too close to the left side of the page. So I went back into some of the previous sections to adjust the padding and margin of elements. I especially did this with the input elements on the forms and changed the margin so I pushed them closer towards the middle of the section. I also changed some of the button colors I had for the featured sections so they were green instead of red. In the HTML file, I changed the image links. Once the mobile styles were done, I was able to add all the styles to tablet.scss file. I made a few changes to the padding and margin on elements. I was originally going to change the header and use Flebox, but I decided not to based on how the navigation looked at the tablet version of the site. I might try Flexbox tomorrow on the header in the tablet.scss file to see I can get it to work when I do final style updates.
+
+**Tomorrow's List:**
+- Add styles for style.scss file
+- Make final style changes for the site
+
+**Link(s) for the day's work:** [30 Days 30 Sites Beverage](https://github.com/BritishPandaChick/30sites-beverage)
