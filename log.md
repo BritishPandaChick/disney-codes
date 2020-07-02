@@ -351,3 +351,14 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Make final style changes for the site
 
 **Link(s) for the day's work:** [30 Days 30 Sites Beverage](https://github.com/BritishPandaChick/30sites-beverage)
+
+## Day 32: July 2, 2020
+**What I Did Today:** Start adding styles for large screen version of beverage website. Use Flexbox properties to update base styles and header. Start adding styles for email section.
+
+**Day Summary:** I started to add styles to the style.scss file. During this session, I was able to get the styles for the announcements and header done. I found myself going back through the base styles and making minor adjustments so the styles would work with Flexbox. I'm using the CSS Tricks blog post to help me with Flexbox as I add properties into certain sections. It isn't 100% perfect but so far I've been able to create the effects I want with the header. I owe a lot of this to adding extra classes to help with the styling. I added the full-width, half-width, and third-width classes to the HTML to wrap certain elements in. Right now my challenge is getting form just right. The inputs are too close together so I've been trying to use Flexbox properties to see if I can space the items out mroe without using the margin and padding. Tomorrow i'm going to see I can find a solution for the form styles.
+
+**Tomorrow's List:**
+- Figure out margin and padding for form in email section
+- Start styling the featured section
+
+**Link(s) for the day's work:** [30 Days 30 Sites Beverage](https://github.com/BritishPandaChick/30sites-beverage)
