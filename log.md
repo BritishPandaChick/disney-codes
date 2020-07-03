@@ -362,3 +362,15 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Start styling the featured section
 
 **Link(s) for the day's work:** [30 Days 30 Sites Beverage](https://github.com/BritishPandaChick/30sites-beverage)
+
+## Day 33: July 3, 2020
+**What I Did Today:** Finish adding styles for large screen version of the site. Start style updates for mobile.scss file.
+
+**Day Summary:** I spent the rest of the session working on getting the styles on the style.scss file. I played around with Flexbox properties, but I had better luck changing around the padding and margin of elements. I made more changes to the index.html so styling would be easier for larger screen. This included adding more div tags with full-width class and moving around headlines in certain sections. In the email form, I added id attributes to the form elements to make individual styles for the margin and padding. The large screen version isn't completely done. As I do final style updates, I'll go back and play around with Flexbox, margin, and padding for different sections as I go. I was able to get a start on some style updates for mobile.scss file. I took a look at the mobile site to make sure the HTML changes didn't make too many big changes to my site. Tomorrow I'm going to make more adjustments to the form inputs and see if I can improving the spacing between the images and buttons in the popular section.
+
+**Tomorrow's List:**
+- Finish style updates for mobile.scss file
+- Finish style updates for tablet.scss file
+
+
+**Link(s) for the day's work:** [30 Days 30 Sites Beverage](https://github.com/BritishPandaChick/30sites-beverage)
