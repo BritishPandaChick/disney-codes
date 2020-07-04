@@ -374,3 +374,14 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 
 
 **Link(s) for the day's work:** [30 Days 30 Sites Beverage](https://github.com/BritishPandaChick/30sites-beverage)
+
+## Day 34: July 4, 2020
+**What I Did Today:** Finish style updates for mobile version of beverage website.
+
+**Day Summary:** The final updates for the mobile version of the beverage site are done. Today I made final changes to the mobile.scss. I changed mostly the padding and margin properties of various selectors. A lot of time was spent updating the email sign up section and seeing if I could improve the spacing of the form elements. While I was updating the styles, I noticed the email placeholder said name instead of email so I went back into the HTML to change the placeholder attribute. I didn't use any Flexbox on the mobile version, but tomorrow I'm going to try using Flexbox and the Flexbox properties to improve the medium screen version of the site.
+
+**Tomorrow's List:**
+- Finish style updates for tablet.scss file
+- Start style updates for style.scss file
+
+**Link(s) for the day's work:** [30 Days 30 Sites Beverage](https://github.com/BritishPandaChick/30sites-beverage)
