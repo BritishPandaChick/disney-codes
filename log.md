@@ -385,3 +385,15 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Start style updates for style.scss file
 
 **Link(s) for the day's work:** [30 Days 30 Sites Beverage](https://github.com/BritishPandaChick/30sites-beverage)
+
+## Day 35: July 5, 2020
+**What I Did Today:** Start adding styles to tablet.scss file. Update styles for base styles, announcements, header, and email sections.
+
+**Day Summary:** Today I got a decent start on the final style updates for tablet.scss file. I set the full-width selector's display to flex and began adding Flexbox properties to various selectors in different sections. The biggest challenge I encountered was the header navigation. I found myself playing around with the margin and padding of the li selector to get the spacing just right while ensuring the li items stayed on the page. The other challenge was the form elements in the email section. I used the ids I created for the individual form elements to get the spacing just right between the inputs. I was able to start adding some updates to the featured section. Tomorrow my goal is to get the feature section done and figuring out what padding would be best for the images so they aren't too close to the top of the page. 
+
+**Tomorrow's List:**
+- Finish style updates for featured section
+- Fix padding and margin issues for images in featured section
+- Start style updates for popular section
+
+**Link(s) for the day's work:** [30 Days 30 Sites Beverage](https://github.com/BritishPandaChick/30sites-beverage)
