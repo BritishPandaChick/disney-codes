@@ -407,3 +407,13 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Figure out what is causing the horizontal scroll bar at the bottom of all screen size versions of the site
 
 **Link(s) for the day's work:** [30 Days 30 Sites Beverage](https://github.com/BritishPandaChick/30sites-beverage)
+
+## Day 37: July 7, 2020
+**What I Did Today:** Fix style issues creating horizontal scroll bar on beverage website. Adjust margin and width in mobile.scss for buttons.
+
+**Day Summary:** The beverage website is officially finished! I spent the entire session working on all screen versions of the site. I took a few minutes to look at each version of the site. I removed all the scss code to see what the website looked without styles and double check if the HTML was the cause the horizontal scroll bar. Oddly the scroll bar wasn't appearing with just the HTML code so I think the issue is with the styles. After adding the styles back to the scss files, I started to play around with the width for the base styles to see if this would help remove the horizontal scroll bar. It took sometime playing around with the different properties and selectors, but I figured it out. It turns out that the issue was with container class in the tablet.scss and style.scss files having a width of 100%. In the mobile.scss file, I removed the width from the full-width class. I didn't make too many changes to the tablet.scss and style.scss files, but I went back into the mobile.scss to adjust the width of the buttons and margins so they fit on the page.
+
+**Tomorrow's List:**
+- Start set up for printing company website
+
+**Link(s) for the day's work:** [30 Days 30 Sites Beverage](https://github.com/BritishPandaChick/30sites-beverage)
