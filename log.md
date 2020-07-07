@@ -397,3 +397,13 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Start style updates for popular section
 
 **Link(s) for the day's work:** [30 Days 30 Sites Beverage](https://github.com/BritishPandaChick/30sites-beverage)
+
+## Day 36: July 6, 2020
+**What I Did Today:** Finish style updates for medium and large screen versions of beverage website. Double check all screen versions in Dev Tools.
+
+**Day Summary:** Today I finished the style updates for tablet.scss and style.scss files. These updates were adjusting the margin and padding of different elements. I did move some of the h2 headlines in the featured and popular sections out of the full-width classes in the HTML. This gave a little bit more spacing between the h2 headlines and the other elements in the sections. Once the styling was done, I didn some final checks of each screen version of the site. I noticed I still have a horizontal scroll bar at the bottom of the site. Tomorrow I'm going to see if I can figure out what is causing the scroll bar to appear on each screen size version of this site. I think the issue could be in some of the base styles for the site for the width so I'm going to play around with the base styles tomorrow to see if this is the case.
+
+**Tomorrow's List:**
+- Figure out what is causing the horizontal scroll bar at the bottom of all screen size versions of the site
+
+**Link(s) for the day's work:** [30 Days 30 Sites Beverage](https://github.com/BritishPandaChick/30sites-beverage)
