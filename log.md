@@ -417,3 +417,14 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Start set up for printing company website
 
 **Link(s) for the day's work:** [30 Days 30 Sites Beverage](https://github.com/BritishPandaChick/30sites-beverage)
+
+## Day 38: July 8, 2020
+**What I Did Today:** Set up and organize code files for printing company website. Began adding HTML code for header.
+
+**Day Summary:** Today I started to work on a brand new project. The next project in the 30 Days, 30 Sites challenge is a printing company website. The entire session was preparing the code files and getting organized so I could start working on the website. After looking at some example sites, I decided to use Bootstrap on this site as well as Sass to make this web page. I didn't do too much coding but I was able to get the header started on the page. This project will be the first one to use dropdown menus so I've been working on getting the dropdown menu created. At the end of the session, I was debating on adding buttons for cart and contacting for help in order to follow the example site I'm trying to recreate. I'm going to think about what I would like to add in the header section and look at more printing company examples to see what else I can include.
+
+**Tomorrow's List:**
+- Finish setting up site header
+- Start adding section code
+
+**Link(s) for the day's work:** [30 Days 30 Sites Printing Company](https://github.com/BritishPandaChick/30sites-printing-company)
