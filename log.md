@@ -428,3 +428,13 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Start adding section code
 
 **Link(s) for the day's work:** [30 Days 30 Sites Printing Company](https://github.com/BritishPandaChick/30sites-printing-company)
+
+## Day 39: July 9, 2020
+**What I Did Today:** Finish adding HTML code for header and footer of printing company website. Start adding HTML code for individual sections on the page.
+
+**Day Summary:** Today I made more progress on the HTML for the printing company website. I finished working on the header code. I decided to redo the dropdown menu I was originally building and changed the dropdown menu items. I then copied the dropdown menu to create a new dropdown menu for new. After I worked on the header, I decided to get the footer done so I could completely concentrate on getting the sections done on the site. I'm not quite 100% sure what sections I should put on this website so I'm still going to look at other printing company sites to get ideas of what I can use on my website. Today I added two sections to the page. Tomorrow I'm going to concentrate on getting all the HTML sections added to the page as well as updating the ones I added so far. Looking at the banner section I just made, I think I'm going to add a button to the section.
+
+**Tomorrow's List:**
+- Start adding HTML code for sections
+
+**Link(s) for the day's work:** [30 Days 30 Sites Printing Company](https://github.com/BritishPandaChick/30sites-printing-company)
