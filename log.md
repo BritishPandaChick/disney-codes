@@ -438,3 +438,14 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Start adding HTML code for sections
 
 **Link(s) for the day's work:** [30 Days 30 Sites Printing Company](https://github.com/BritishPandaChick/30sites-printing-company)
+
+## Day 40: July 10, 2020
+**What I Did Today:** Update header navigation by creating a new dropdown menu for all products and moving certain list items around. Add new HTML sections for deals, bottom navigation, and trending. Start adding HTML code for email section.
+
+**Day Summary:** Before I started any of today's code, I took a look at different printing company websites and got a good sense of what sections I want to put on my page. At the beginning of the session, I updated the header navigation. I changed the all products list item to a new dropdown menu. Originally the dropdown was appearing on the far left side of the page instead underneath the all products. Once I added the dropdown class to the list item, this fixed the issue instead of what I was doing which was changing the id names for the dropdown elements. The rest of the session was spent adding more HTML sections to the site. At the end of the session, I was adding the last section to the HTML file which is an section for email sign up. Tomorrow my goal is to finish adding this last HTML section so I can start concentrating on the mobile styles.
+
+**Tomorrow's List:**
+- Finish email section in HTML code
+- Start adding styles for website
+
+**Link(s) for the day's work:** [30 Days 30 Sites Printing Company](https://github.com/BritishPandaChick/30sites-printing-company)
