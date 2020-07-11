@@ -449,3 +449,14 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Start adding styles for website
 
 **Link(s) for the day's work:** [30 Days 30 Sites Printing Company](https://github.com/BritishPandaChick/30sites-printing-company)
+
+## Day 41: July 11, 2020
+**What I Did Today:** Add HTML code for email section. Start adding styles for mobile.scss file. Add styles for header. Start adding styles for banner section.
+
+**Day Summary:** I finished all the HTML code today. I just finished the HTML code for the email section. The rest of the session was spent getting the styles started in the mobile.scss file. Before I started adding the styles, I double checked my Google Fonts link and picked colors for my Sass variables. Once I added the variables and base styles, I added the header styles. I went back into the HTML to adjust some of the Bootstrap classes. I found myself using more class names for the styling of different header elements in order to add colors, font sizes, and background colors. Once the header was finished, I started adding styles to the banner section. I'm going to need to style different selectors in a certain way so I started to add class names to different p tags to help with the styling tomorrow. I don't like the background color for the banner section so I'm going to change the color from red to green.
+
+**Tomorrow's List:**
+- Finish styles for banner section
+- Start adding styles for email section
+
+**Link(s) for the day's work:** [30 Days 30 Sites Printing Company](https://github.com/BritishPandaChick/30sites-printing-company)
