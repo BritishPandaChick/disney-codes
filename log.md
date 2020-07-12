@@ -460,3 +460,14 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Start adding styles for email section
 
 **Link(s) for the day's work:** [30 Days 30 Sites Printing Company](https://github.com/BritishPandaChick/30sites-printing-company)
+
+## Day 42: July 12, 2020
+**What I Did Today:** Finish styles for banner section. Add styles for email section. Start adding styles for deal section.
+
+**Day Summary:** I continued to add more styles to the mobile.scss file. Today I was able to finish 2 more sections on the site. I was able to finish the banner section and make changes to the code I already wrote as well adding new properties to the code. Once banner section was finished, I added styles for the email section. The rest of teh session was spent adding styles for the deal section. This is the first time I was playing around with the opacity property. I initially was trying to use it on the background image but this made the text too hard to read. It took time playing around different colors and selectors, but I found it was best using a white background on a div wrapped around the text. I gave this div another class name to use for styling. Tomorrow I need to finish the styling for the the section then I'm going to move forward with the rest of the styles for the mobile.scss file.
+
+**Tomorrow's List:**
+- Finish styles for deal section
+- Start adding styles for trending section
+
+**Link(s) for the day's work:** [30 Days 30 Sites Printing Company](https://github.com/BritishPandaChick/30sites-printing-company)
