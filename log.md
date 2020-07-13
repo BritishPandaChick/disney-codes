@@ -464,10 +464,21 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 ## Day 42: July 12, 2020
 **What I Did Today:** Finish styles for banner section. Add styles for email section. Start adding styles for deal section.
 
-**Day Summary:** I continued to add more styles to the mobile.scss file. Today I was able to finish 2 more sections on the site. I was able to finish the banner section and make changes to the code I already wrote as well adding new properties to the code. Once banner section was finished, I added styles for the email section. The rest of teh session was spent adding styles for the deal section. This is the first time I was playing around with the opacity property. I initially was trying to use it on the background image but this made the text too hard to read. It took time playing around different colors and selectors, but I found it was best using a white background on a div wrapped around the text. I gave this div another class name to use for styling. Tomorrow I need to finish the styling for the the section then I'm going to move forward with the rest of the styles for the mobile.scss file.
+**Day Summary:** I continued to add more styles to the mobile.scss file. Today I was able to finish 2 more sections on the site. I was able to finish the banner section and make changes to the code I already wrote as well adding new properties to the code. Once banner section was finished, I added styles for the email section. The rest of teh session was spent adding styles for the deal section. This is the first time I was playing around with the opacity property. I initially was trying to use it on the background image but this made the text too hard to read. It took time playing around different colors and selectors, but I found it was best using a white background on a div wrapped around the text. I gave this div another class name to use for styling. Tomorrow I need to finish the styling for the deal section then I'm going to move forward with the rest of the styles for the mobile.scss file.
 
 **Tomorrow's List:**
 - Finish styles for deal section
 - Start adding styles for trending section
+
+**Link(s) for the day's work:** [30 Days 30 Sites Printing Company](https://github.com/BritishPandaChick/30sites-printing-company)
+
+## Day 43: July 13, 2020
+**What I Did Today:** Finish styles for deal section. Add more styles for bottom-nav, second-deal, and trending sections. Adjust headlines and Bootstrap classes in HTML file.
+
+**Day Summary:** I'm almost in the home stretch with the mobile.scss file. I fiished the styles for deal section I started yesterday. The rest of the session was spent trying to add more styles to different sections. I was able to get almost all the sections styles styled on the site. The only section I need to finish is the footer in mobile.scss file. Tomorrow I'll finish the mobile.scss file then start working on tablet.scss file. Although I was mostly concentrating on the CSS code, I went back into the HTML file to change some of the h4 tags to h3 tags and add more class names to certain tags. Tomorrow I might take time to adjust the spacing between the groups in the bottom nav section.
+
+**Tomorrow's List:**
+- Finish styling footer in mobile.scss file
+- Start adding styles for header in tablet.scss file
 
 **Link(s) for the day's work:** [30 Days 30 Sites Printing Company](https://github.com/BritishPandaChick/30sites-printing-company)
