@@ -475,10 +475,22 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 ## Day 43: July 13, 2020
 **What I Did Today:** Finish styles for deal section. Add more styles for bottom-nav, second-deal, and trending sections. Adjust headlines and Bootstrap classes in HTML file.
 
-**Day Summary:** I'm almost in the home stretch with the mobile.scss file. I fiished the styles for deal section I started yesterday. The rest of the session was spent trying to add more styles to different sections. I was able to get almost all the sections styles styled on the site. The only section I need to finish is the footer in mobile.scss file. Tomorrow I'll finish the mobile.scss file then start working on tablet.scss file. Although I was mostly concentrating on the CSS code, I went back into the HTML file to change some of the h4 tags to h3 tags and add more class names to certain tags. Tomorrow I might take time to adjust the spacing between the groups in the bottom nav section.
+**Day Summary:** I'm almost in the home stretch with the mobile.scss file. I finished the styles for deal section I started yesterday. The rest of the session was spent trying to add more styles to different sections. I was able to get almost all the sections styles styled on the site. The only section I need to finish is the footer in mobile.scss file. Tomorrow I'll finish the mobile.scss file then start working on tablet.scss file. Although I was mostly concentrating on the CSS code, I went back into the HTML file to change some of the h4 tags to h3 tags and add more class names to certain tags. Tomorrow I might take time to adjust the spacing between the groups in the bottom nav section.
 
 **Tomorrow's List:**
 - Finish styling footer in mobile.scss file
 - Start adding styles for header in tablet.scss file
+
+**Link(s) for the day's work:** [30 Days 30 Sites Printing Company](https://github.com/BritishPandaChick/30sites-printing-company)
+
+## Day 44: July 14, 2020
+**What I Did Today:** Finish adding styles for mobile.scss file. Start adding styles for tablet.scss file. Update Bootstrap classes in index.html file.
+
+**Day Summary:** Today I finished the footer styles in mobile.scss. Originally the font awesome icons weren't appearing on the site. I took a look at the head tag and discovered I set two links for Google Fonts instead of setting a link for the Font Awesome library. Once I added a link to Font Awesome, the icons appeared on the site. Once the footer styles were compiled to the site, I began working on the styles for the tablet.scss file. So far I've managed to get most of the styles done for the tablet.scss file. Tomorrow I just need to add the bottom navigation and footer styles for the medium screen size version of the site. I especially want to play around with the text-block classes to see if I can get the position of the white block of text just right on the site.
+
+**Tomorrow's List:**
+- Finish tablet.scss styles
+- Start adding styles for style.scss file
+- Adjust Bootstrap classes in HTML file for text-block classes
 
 **Link(s) for the day's work:** [30 Days 30 Sites Printing Company](https://github.com/BritishPandaChick/30sites-printing-company)
