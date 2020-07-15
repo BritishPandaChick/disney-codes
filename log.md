@@ -494,3 +494,13 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Adjust Bootstrap classes in HTML file for text-block classes
 
 **Link(s) for the day's work:** [30 Days 30 Sites Printing Company](https://github.com/BritishPandaChick/30sites-printing-company)
+
+## Day 45: July 15, 2020
+**What I Did Today:** Finish styles for tablet.scss and styles.scss. Made final style changes to all screen size versions.
+
+**Day Summary:** The printing company website is finished. I added the final styles for the tablet.scss and style.scss files. When I was working in the tablet.scss file, I played around with the text-block classes to see how the position would work. I ended up just changing the Bootstrap classes for medium and large screen size to take up 12 columns instead of 6. Other big changes were adding a div tag with the nav-row class around the ul and li items in the header to help with styling the navigation so there would be more spacing. Once all the styles were added to the style.scss file, I went and double checked all the scss files to see if there were any other changes I needed to make to the site before I compiled styles to the site.
+
+**Tomorrow's List:**
+- Start setup code files for 30 Days, 30 Sites day 15 website
+
+**Link(s) for the day's work:** [30 Days 30 Sites Printing Company](https://github.com/BritishPandaChick/30sites-printing-company)
