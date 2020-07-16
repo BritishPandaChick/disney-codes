@@ -504,3 +504,14 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Start setup code files for 30 Days, 30 Sites day 15 website
 
 **Link(s) for the day's work:** [30 Days 30 Sites Printing Company](https://github.com/BritishPandaChick/30sites-printing-company)
+
+## Day 46: July 16, 2020
+**What I Did Today:** Organized code files for motivational speaker websites. Add HTML code for header and footer.
+
+**Day Summary:** Today I mostly did set up for the new website and getting the code files ready. I was able to start on some of the HTML code. I got the header and footer finished on the site. I was able to start adding code for one of the sections on the site. Tomorrow I will add the text tags in the quote section then start adding the rest of the HTML sections. I'm not sure what sections to add to my site so I'll be taking a look at sample sites online for inspiration later. Although I am using Bootstrap on this site, one of my big goals for this project is to find a way to use CSS Grid somewhere on the project. I'm going to look at the CSS Tricks blog post tomorrow to see if I can use CSS Grid to make a section on this site.
+
+**Tomorrow's List:**
+- Finish HTML code for quote section
+- Add more HTML sections inside main tag
+
+**Link(s) for the day's work:** [30 Days 30 Sites Motivational Speaker](https://github.com/BritishPandaChick/30sites-motivation-speaker)
