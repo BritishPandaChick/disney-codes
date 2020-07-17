@@ -515,3 +515,16 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Add more HTML sections inside main tag
 
 **Link(s) for the day's work:** [30 Days 30 Sites Motivational Speaker](https://github.com/BritishPandaChick/30sites-motivation-speaker)
+
+## Day 47: July 17, 2020
+**What I Did Today:** Change title, navbar-brand, and e-mail text in the footer. Finish quote section code. Add sections for email, meg, upcoming, and programs. Start adding code for bottom-nav section.
+
+**Day Summary:** The HTML code is almost done for the quote section. I wasn't able to add any CSS Grid to the site just yet but I'm going to see if I can find a way to incorporate on the site somehow. Right now I'm thinking it might be a best fit for the programs section I added today. However, if I can't find a way to make it work on the site I will most likely scrap CSS Grid from the site. Today I was able to get most of the HTML code on the site. The only section I need to finish is the bottom navigation at the bottom of the page. I decided to change my original inspiration for the site so I changed the text for the title tag, navbar-brand, and email text in the footer. I'm going to start taking a look at color palettes to see what I would like to use tomorrow for styling.
+
+**Tomorrow's List:**
+- Finish HTML code for bottom nav
+- Figure out how to add CSS grid to site
+- Start adding styles to the mobile.scss file
+
+
+**Link(s) for the day's work:** [30 Days 30 Sites Motivational Speaker](https://github.com/BritishPandaChick/30sites-motivation-speaker)
