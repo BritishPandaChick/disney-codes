@@ -528,3 +528,14 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 
 
 **Link(s) for the day's work:** [30 Days 30 Sites Motivational Speaker](https://github.com/BritishPandaChick/30sites-motivation-speaker)
+
+## Day 48: July 18, 2020
+**What I Did Today:** Finish HTML code for bottom-nav section in index.html file. Start adding Sass code to mobile.scss file.
+
+**Day Summary:** All the HTML code is officially done on the site. Today I spent most of the session working on the bottom-nav section. Before I started working on today's session I re-read the CSS Tricks article and decided to play around CSS Grid later when I'm working on the styles for the large screen version of the site. I also took the time to find the right colors for my site. When I was working on the bottom-nav section, I decided to take a different approach and modelled the bottom-nav section on the footer area of the Tony Robbins website to see if I could recreate it on Meg's site. I was able to get the look very close using Bootstrap classes and br tags. This section might change as I work on the styles more for the site. Although I wasn't able to compile any styles to the site, I was able to get the Sass variables written and start adding styles to the site. Tomorrow I'm going to compile the styles onto the site and concentrate on getting more sections done on the mobile.scss file done.
+
+**Tomorrow's List:**
+- Finish header styles for mobile.scss file
+- Start adding styles for mobile sections
+
+**Link(s) for the day's work:** [30 Days 30 Sites Motivational Speaker](https://github.com/BritishPandaChick/30sites-motivation-speaker)
