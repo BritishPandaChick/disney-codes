@@ -539,3 +539,14 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Start adding styles for mobile sections
 
 **Link(s) for the day's work:** [30 Days 30 Sites Motivational Speaker](https://github.com/BritishPandaChick/30sites-motivation-speaker)
+
+## Day 49: July 19, 2020
+**What I Did Today:** Start adding styles to mobile.scss. Update Bootstrap classes for section elements in index.html file.
+
+**Day Summary:** Today I was able to get quite a lot done in the mobile.scss file. Most of the sections are done. I just need to finish the bottom-nav and footer sections in the mobile.scss file. As I worked on the styles, I went back into the HTML file to change some of the bootstrap classes. I deleted the div tag with container-fluid I originally wrapped all my elements around and deleted the btn-info class names from the buttons. I also wrapped the form elements in the header navigation with individual div tags with the form-group class to create spacing between the inputs. Tomorrow I'm going to wrap up the mobile.scss styles and see if I can get the tablet.scss styles done. Hopefully I can get the styles for these screen versions done so I can use the extra time to play around with CSS Grid in the large screen version of the site.
+
+**Tomorrow's List:**
+- Finish styles for mobile.scss file
+- Start adding styles for tablet.scss file
+
+**Link(s) for the day's work:** [30 Days 30 Sites Motivational Speaker](https://github.com/BritishPandaChick/30sites-motivation-speaker)
