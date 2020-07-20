@@ -550,3 +550,14 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Start adding styles for tablet.scss file
 
 **Link(s) for the day's work:** [30 Days 30 Sites Motivational Speaker](https://github.com/BritishPandaChick/30sites-motivation-speaker)
+
+## Day 50: July 20, 2020
+**What I Did Today:** Add styles for bottom-nav and footer in mobile.scss file. Start adding styles to tablet.scss. Update HTML code for bottom-nav section.
+
+**Day Summary:** Before I started working on the mobile.scss file, I spent a few minutes in the HTML file updating the bottom-nav section. I changed the Bootstrap classes and removed several elements from the site. I moved the elements around until I found the layout and look that fit the site. The rest of the session was spent working on the mobile.scss styles. I originally was going to have the same background color for the bottom-nav and footer, but I couldn't figure out how to remove the line between the two section so I gave the bottom-nav a light purple color while the footer has a purple color. The other big challenge was getting the spacing just right for the Font Awesome icons and the list items. It took time with playing around with the padding but I eventually got the spacing just right for these elements. I was able to get started on the styles in tablet.scss file. Right now the programs section is proving to be a challenge since the group class is too close together. I'm going to play around with the padding and margin tomorrow to see if I can create some space between each of these elements.
+
+**Tomorrow's List:**
+- Fix margin and padding for group class in programs
+- Start adding styles for meg section tablet.scss file
+
+**Link(s) for the day's work:** [30 Days 30 Sites Motivational Speaker](https://github.com/BritishPandaChick/30sites-motivation-speaker)
