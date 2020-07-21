@@ -561,3 +561,14 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Start adding styles for meg section tablet.scss file
 
 **Link(s) for the day's work:** [30 Days 30 Sites Motivational Speaker](https://github.com/BritishPandaChick/30sites-motivation-speaker)
+
+## Day 51: July 21, 2020
+**What I Did Today:** Add styles for tablet.scss and style.scss files. Began final style updates for mobile.scss file.
+
+**Day Summary:** Today I added all the styles to tablet.scss and style.scss files. I spent time at the beginning of the session playing around with the programs section and getting the spacing right for each of the elements. I didn't have much luck since changing the px by one number causes the elements to move to a new line. After spending several minutes adjusting classes and properties, I decided to move on with the rest of the styles. I didn't add any CSS Grid to the site yet, but I think I'd like to try using it in the programs section to see if will help create some spacing between different div tags. After the styles were added to the large screen version of the sites, I went back to the mobile.scss and start making final style updates. Some of the biggest changes I made were removing the border from the email section and adding a background color instead. I managed to change the text color at the end of the session and adjust the padding for the paragraph in the section. Tomorrow I'm going to try finish making final style changes to the mobile.scss so I can spend more time updating the tablet and style files.
+
+**Tomorrow's List:**
+- Finish style updates on about section in mobile.scss
+- Start style updates for about and programs sections
+
+**Link(s) for the day's work:** [30 Days 30 Sites Motivational Speaker](https://github.com/BritishPandaChick/30sites-motivation-speaker)
