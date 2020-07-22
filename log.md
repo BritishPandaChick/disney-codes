@@ -572,3 +572,15 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Start style updates for about and programs sections
 
 **Link(s) for the day's work:** [30 Days 30 Sites Motivational Speaker](https://github.com/BritishPandaChick/30sites-motivation-speaker)
+
+## Day 52: July 22, 2020
+**What I Did Today:** Finish style updates for mobile.scss file. Start final style updates in tablet.scss file. Update header and email sections in tablet.scss file.
+
+**Day Summary:** All the mobile styles are finished. I made minor changes to various sections such as adjusting the padding and margin for different elements. I spent a lot of time trying to fix the width of the header form but still had the same issues of the elements going down to another row. After several tries, I decided to leave things the way they are and just concentrate on the other styles on the site. Perhaps in the future I'll come back and see if I can find a solution for this issue. At the end of the session, I started to work on the style updates in the tablet.scss file. I was able to get the header and email sections done. Tomorrow I'm going to work on getting the styles done in the tablet.scss file. I especially want to test CSS Grid with the programs section to see if this helps creates spacing between the different elements.
+
+**Tomorrow's List:**
+- Finish styles for tablet.scss file 
+- Try CSS Grid properties for programs section in tablet.scss file
+
+
+**Link(s) for the day's work:** [30 Days 30 Sites Motivational Speaker](https://github.com/BritishPandaChick/30sites-motivation-speaker)
