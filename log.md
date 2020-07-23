@@ -582,5 +582,15 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Finish styles for tablet.scss file 
 - Try CSS Grid properties for programs section in tablet.scss file
 
+**Link(s) for the day's work:** [30 Days 30 Sites Motivational Speaker](https://github.com/BritishPandaChick/30sites-motivation-speaker)
+
+## Day 53: July 23, 2020
+**What I Did Today:** Finish style updates for tablet.scss file. Start playing around with CSS Grid properties in the programs section of the tablet.scss file.
+
+**Day Summary:** Today I finished the style updates for the tablet.scss file. Most of these updates were adjusting the padding and margin. A lot of time was spent working on the HTML code and adjusting some of the Bootstrap classes. Just in case the CSS grid properties doesn't work, I have a back up plan with Bootstrap. My plan is to give each of the div tags a class of col-md-3 instead of col-md-4. Although the tablet.scss styles are finished, I am staying in the tablet.scss for now to test out CSS Grid and see if this can improving the spacing issues in the section. I went back into the HTML fiile to remove the Bootstrap classes and add some new class names just for styling. I started to play around with the grid-template-columns and grid-template-rows with the help of the CSS Grid article on CSS Tricks. Tomorrow I'm going to see if I can play around with the different properties and see what happens.
+
+**Tomorrow's List:**
+- Play with CSS Grid in programs section
+- Add final style updates for style.scss file
 
 **Link(s) for the day's work:** [30 Days 30 Sites Motivational Speaker](https://github.com/BritishPandaChick/30sites-motivation-speaker)
