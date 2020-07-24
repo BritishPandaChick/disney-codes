@@ -594,3 +594,14 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Add final style updates for style.scss file
 
 **Link(s) for the day's work:** [30 Days 30 Sites Motivational Speaker](https://github.com/BritishPandaChick/30sites-motivation-speaker)
+
+## Day 54: July 24, 2020
+**What I Did Today:** Play around with CSS Grid properties in tablet.scss file. Start final style updates for style.scss. Update header, quote, and email sections.
+
+**Day Summary:** I ran into some technical issues with my text editor today which interrupted some of the work in today's session. I spent a large part of the session playing around with CSS Grid properties and trying to get spacing just right between the different group elements. I wasn't able to find a solution with CSS Grid. After using the CSS Tricks blog post and trying different properties, I went with my back up plan of using the Bootstrap classes. The rest of the time was starting the updates for the style.scss file. I managed to get the header, quote, and email sections done. Right now I'm trying to finish the programs sections and see if I can get the group classes aligned just right with the rest of the elements in the section.
+
+**Tomorrow's List:**
+- Fix group class in programs section in style.scss file
+- Finish style updates in style.scss file
+
+**Link(s) for the day's work:** [30 Days 30 Sites Motivational Speaker](https://github.com/BritishPandaChick/30sites-motivation-speaker)
