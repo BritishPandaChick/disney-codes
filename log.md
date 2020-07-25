@@ -605,3 +605,14 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Finish style updates in style.scss file
 
 **Link(s) for the day's work:** [30 Days 30 Sites Motivational Speaker](https://github.com/BritishPandaChick/30sites-motivation-speaker)
+
+## Day 55: July 25, 2020
+**What I Did Today:** Finish styles for the large screen version of motivational speaker website. Start organizing code files for charitable organization website.
+
+**Day Summary:** I finished all the style updates for the style.scss file. I fixed the issues with the group elements in the programs section. I played around with the left and right padding for the group classes. The style updates went very easily for the style.scss file. I added padding to some of the text elements so there was some spacing around some of the elements. Once the style.scss file was done, I wasn't sure if I should start a brand new project since there's only a couple of days left in the challenge. So I decided for the last two days I'd at least get the projects set up for the 7 Days, 7 Websites challenge coming later this summer. Right now I'm working on getting the code files ready for charitable organization website. I'm going to use the projects in this challenge as a way to work on Node.js so I'm going to set up my code files for as many projects as I can so it will be easier building them in the future.
+
+**Tomorrow's List:**
+- Start preparing code files for 7 Days, 7 Websites challenge
+- Add package.json file for charitable organization website
+
+**Link(s) for the day's work:** [30 Days 30 Sites Motivational Speaker](https://github.com/BritishPandaChick/30sites-motivation-speaker)
