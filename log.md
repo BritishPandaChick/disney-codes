@@ -616,3 +616,12 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Add package.json file for charitable organization website
 
 **Link(s) for the day's work:** [30 Days 30 Sites Motivational Speaker](https://github.com/BritishPandaChick/30sites-motivation-speaker)
+
+## Day 56: July 26, 2020
+**What I Did Today:** Set up code files for 3 projects for the 30 Days, 30 Sites challenge. Organize code files and wrote code in app.js files to ensure files work.
+
+**Day Summary:** Today's session was spent setting up code files the 7 Days, 7 Websites challenge. I'm going to be using Node.js for these projects so I spent today's session getting as many projects organized. I was able to get at least 2 projects set up. I decided to add some of the initial code files I know I'll need right away for each of these projects and install the required projects I'll need. The day-sixteen file took some time to set up since I moved my original code from the index.html and split it up into two different partial files. I was able to start setting up the code files for day-eighteen project. So far all the files are added. I just need to create the package.json file, install packages, and add code to the code files to this project then I'm going to repeat the process with the other projects I'm doing in the next challenge. If I am able to finish project setup, I'll use that time to start working on the code for day-sixteen project.
+
+**Tomorrow's List:**
+- Finish setting up code files for day-eighteen file
+- Set up code files for days 19, 20, 21, and 22 projects
