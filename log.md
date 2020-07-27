@@ -627,7 +627,7 @@ This is the log Page for the Disney Coding Challenge. Just copy-paste the templa
 - Set up code files for days 19, 20, 21, and 22 projects
 
 ## Day 57: July 27, 2020
-**What I Did Today:**
+**What I Did Today:** Set up code files for the rest of the projects for the 7 Days, 7 Website challenge. Organize code files and wrote code in app.js file to ensure files work.
 
-**Day Summary:** 
+**Day Summary:** I finished all the code set up for all the projects in the 7 Days, 7 Websites challenge. I finished the set up for day-eighteen project. I didn't run into any issues getting these projects ready. A lot of the code I wrote for the header and footer sections will get updated throughout the challenge. I wasn't able to start working on the day-sixteen project, but I began thinking of ideas of what the theme for the site will be. If I need more items for any of these sites, I'll add them as I work on each project in the 7 Days, 7 Website challenge.
 
